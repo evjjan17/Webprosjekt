@@ -1,0 +1,343 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Campus v1.2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"POT-Revision-Date: Wed Nov 23 2016 07:43:29 GMT+0100 (W. Europe Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: academiathemes <academiathemes@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: ../404.php:12
+msgid "Page not found"
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"Apologies, but the requested page cannot be found. Perhaps searching will "
+"help find a related page."
+msgstr ""
+
+#: ../404.php:25
+msgid "Browse Categories"
+msgstr ""
+
+#: ../404.php:30
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:7 ../academia-admin/academia-
+#: customizer.php:7
+msgid "Customize"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:19
+msgid "Default"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:31
+msgid "General Settings"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:32
+msgid "This controls various general theme settings."
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:40
+msgid "Fonts & Color Settings"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:41
+msgid "Customize theme fonts and color of elements."
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:59
+msgid "Logo File Upload"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:66 ../footer.php:43
+msgid "Copyright &copy; "
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:66 ../footer.php:43
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:79
+msgid "Copyright text in Footer"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:98
+msgid "Header background color"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:119
+msgid "Header wrapper background color"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:140
+msgid "Menu background color"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:160
+msgid "Choose the main body font"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:180
+msgid "Main body text color"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:201
+msgid "Main body anchor(link) color"
+msgstr ""
+
+#: ../academia-admin/academia-customizer.php:222
+msgid "Main body anchor(link) :hover color"
+msgstr ""
+
+#: ../academia-admin/post-options.php:51
+msgid "Feature this Post in the Homepage Slideshow"
+msgstr ""
+
+#: ../archive.php:12
+msgid "Post Tagged with:"
+msgstr ""
+
+#: ../archive.php:13 ../archive.php:14 ../archive.php:15
+msgid "Archive for"
+msgstr ""
+
+#: ../author.php:13
+msgid "Posts by"
+msgstr ""
+
+#: ../comments.php:14
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:14
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:14
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:18 ../comments.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:18 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:59
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Your Email"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Your Website"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:79
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:80
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:81
+msgid "Cancel"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Submit Comment"
+msgstr ""
+
+#: ../featured-page.php:34
+msgid "Thank you for installing Campus Theme"
+msgstr ""
+
+#: ../featured-page.php:41
+msgid "Please select a static page to be displayed on the homepage."
+msgstr ""
+
+#: ../featured-page.php:42
+msgid "You can do so by going to"
+msgstr ""
+
+#: ../featured-page.php:42
+msgid "Dashboard > Settings > Reading"
+msgstr ""
+
+#: ../footer.php:42
+msgid "Designed by"
+msgstr ""
+
+#: ../functions.php:126
+msgid "Homepage: Top"
+msgstr ""
+
+#: ../functions.php:128
+msgid "Appears on the homepage of the site, before the posts loop."
+msgstr ""
+
+#: ../functions.php:136
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:138
+msgid "Appears in the narrow column of the site."
+msgstr ""
+
+#: ../functions.php:146
+msgid "Footer: Column 1"
+msgstr ""
+
+#: ../functions.php:148 ../functions.php:158 ../functions.php:168
+msgid "Appears in the footer of the site."
+msgstr ""
+
+#: ../functions.php:156
+msgid "Footer: Column 2"
+msgstr ""
+
+#: ../functions.php:166
+msgid "Footer: Column 3"
+msgstr ""
+
+#: ../functions.php:242
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:271
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:272
+#, php-format
+msgid "%s at %s"
+msgstr ""
+
+#: ../functions.php:272
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:276
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:297
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:297
+msgid "(Edit)"
+msgstr ""
+
+#: ../header.php:59
+msgid "Please set your Main Menu on this page:"
+msgstr ""
+
+#: ../header.php:59
+msgid "Appearance > Menus"
+msgstr ""
+
+#: ../index.php:39
+msgid "Recent Posts"
+msgstr ""
+
+#: ../loop.php:11
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Archives"
+msgstr ""
+
+#: ../page-templates/blog.php:20 ../page.php:15
+msgid "Edit page"
+msgstr ""
+
+#: ../page-templates/blog.php:31 ../page.php:26 ../single.php:27
+msgid "Pages"
+msgstr ""
+
+#: ../pagination.php:13
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../pagination.php:14
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../search.php:12
+msgid "Search Results for"
+msgstr ""
+
+#: ../single.php:16
+msgid "Edit post"
+msgstr ""
+
+#: ../single.php:28
+msgid "Tags"
+msgstr ""
+
+#. Name of the theme
+msgid "Campus"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.academiathemes.com/themes/campus/"
+msgstr ""
+
+#. Description of the theme
+msgid "Campus is a free WordPress theme for blogs and review websites."
+msgstr ""
+
+#. Author of the theme
+msgid "AcademiaThemes.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.academiathemes.com/"
+msgstr ""

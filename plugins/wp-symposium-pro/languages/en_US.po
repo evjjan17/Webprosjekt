@@ -1,0 +1,6601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-symposium-pro\n"
+"POT-Creation-Date: 2017-10-04 14:11-0500\n"
+"PO-Revision-Date: 2017-10-04 14:12-0500\n"
+"Last-Translator: \n"
+"Language-Team: Robert Dempsy and Tom Carroll\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_n;_ex;_nx;_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;esc_html_x;_n_noop;_nx_noop;translate;"
+"translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: activity/ajax_activity.php:56 forums/wps_forum_shortcodes.php:1104
+#: wps_setup_admin.php:402 wps_setup_admin.php:1442
+msgid "Report"
+msgstr ""
+
+#: activity/ajax_activity.php:58 wps_setup_admin.php:374
+msgid "Stick"
+msgstr ""
+
+#: activity/ajax_activity.php:59 wps_setup_admin.php:381
+msgid "Unstick"
+msgstr ""
+
+#: activity/ajax_activity.php:60 alerts/wps_alerts_shortcodes.php:168
+#: forums/wps_forum_admin.php:156 forums/wps_forum_post.php:306
+#: forums/wps_forum_post.php:484 forums/wps_forum_post.php:606
+#: wps_setup_admin.php:367
+msgid "Delete"
+msgstr ""
+
+#: activity/ajax_activity.php:61 wps_setup_admin.php:388
+msgid "Hide"
+msgstr ""
+
+#: activity/ajax_activity.php:63 wps_setup_admin.php:332
+msgid "Comment"
+msgstr ""
+
+#: activity/ajax_activity.php:66 activity/lib_activity.php:56
+#: wps_setup_admin.php:290
+msgid "more"
+msgstr ""
+
+#: activity/ajax_activity.php:69 wps_setup_admin.php:318
+#, php-format
+msgid "Show previous %d comments..."
+msgstr ""
+
+#: activity/ajax_activity.php:70 wps_setup_admin.php:325
+msgid "Show previous comment..."
+msgstr ""
+
+#: activity/ajax_activity.php:71 activity/lib_activity.php:54
+#: forums/wps_forum_shortcodes.php:111 forums/wps_forum_shortcodes.php:1087
+#: forums/wps_forum_shortcodes.php:1368 forums/wps_forum_shortcodes.php:1384
+#: forums/wps_forum_shortcodes.php:1676 forums/wps_forum_shortcodes.php:1695
+#: forums/wps_forum_shortcodes.php:1738 forums/wps_forum_shortcodes.php:1758
+#: friendships/wps_friendships_shortcodes.php:224
+#: usermeta/wps_usermeta_shortcodes.php:1022
+#: usermeta/wps_usermeta_shortcodes.php:1075 wps_setup_admin.php:431
+#: wps_setup_admin.php:628 wps_setup_admin.php:655 wps_setup_admin.php:772
+#: wps_setup_admin.php:1339 wps_setup_admin.php:1895 wps_setup_admin.php:2095
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: activity/ajax_activity.php:73
+msgid "more..."
+msgstr ""
+
+#: activity/ajax_activity.php:279
+msgid "Delete comment"
+msgstr ""
+
+#: activity/lib_activity.php:148
+msgid "Unable to display activity post."
+msgstr ""
+
+#: activity/lib_activity.php:159
+msgid "Unable to retrieve activity post."
+msgstr ""
+
+#: activity/wps_activity_hooks_and_filters.php:71
+msgid "New activity post"
+msgstr ""
+
+#: activity/wps_activity_hooks_and_filters.php:77
+#, php-format
+msgid "You have a new post on your activity from %s."
+msgstr ""
+
+#: activity/wps_activity_hooks_and_filters.php:109
+msgid "Chosen not to receive activity alerts by email (post) #"
+msgstr ""
+
+#: activity/wps_activity_hooks_and_filters.php:170
+msgid "New comment on your post"
+msgstr ""
+
+#: activity/wps_activity_hooks_and_filters.php:172
+msgid "New comment"
+msgstr ""
+
+#: activity/wps_activity_hooks_and_filters.php:180
+#, php-format
+msgid "A new comment from %s."
+msgstr ""
+
+#: activity/wps_activity_hooks_and_filters.php:187
+msgid "Original Post"
+msgstr ""
+
+#: activity/wps_activity_hooks_and_filters.php:208
+msgid "Chosen not to receive activity alerts by email (comment) #"
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:55 usermeta/wps_usermeta.php:139
+#: usermeta/wps_usermeta_shortcodes.php:262
+#: usermeta/wps_usermeta_shortcodes.php:954 wps_setup_admin.php:497
+#: wps_setup_admin.php:2393 wps_setup_admin.php:2483
+msgid "Town/City"
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:56 usermeta/wps_usermeta.php:147
+#: usermeta/wps_usermeta_shortcodes.php:265
+#: usermeta/wps_usermeta_shortcodes.php:955 wps_setup_admin.php:504
+#: wps_setup_admin.php:2394 wps_setup_admin.php:2499
+msgid "Country"
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:57
+#: usermeta/wps_usermeta_shortcodes.php:956 wps_setup_admin.php:511
+msgid "Friend Requests"
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:127 wps_setup_admin.php:539
+msgid "Add Post"
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:128 wps_setup_admin.php:546
+msgid "You do not have permission to post here"
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:129 wps_setup_admin.php:553
+msgid "Account closed."
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:218 wps_setup_admin.php:353
+msgid "Activity is private"
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:219 wps_setup_admin.php:360
+msgid "Sorry, this activity post is not longer available."
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:221 wps_setup_admin.php:438
+msgid "You must be logged in to view the profile page."
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:253
+msgid ""
+"Add login_url=\"/example\" to the [wps-activity] shortcode to let users "
+"login and redirect back here when not logged in."
+msgstr ""
+
+#: activity/wps_activity_shortcodes.php:504
+msgid "No activity to show..."
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:16
+#: activity/wps_custom_post_activity.php:17
+#: activity/wps_custom_post_activity.php:22
+#: activity/wps_custom_post_activity.php:28
+#: forums/wps_forum_shortcodes.php:1252 wps_setup_admin.php:69
+#: wps_setup_admin.php:2004 wps_setup_admin.php:3114 wps_setup_admin.php:3130
+msgid "Activity"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:18
+#: alerts/wps_custom_post_alerts.php:17 forums/wps_custom_post_forum.php:18
+#: friendships/wps_custom_post_friendships.php:18
+#: friendships/wps_custom_post_friendships.php:234
+msgid "Add New"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:19
+msgid "Add New Activity"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:20
+msgid "Edit Activity"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:21
+msgid "New Activity"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:23
+msgid "View Activity"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:24
+msgid "Search Activity"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:25
+msgid "No activity found"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:26
+msgid "No activity found in the Trash"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:60
+#: activity/wps_custom_post_activity.php:63
+msgid "Activity updated."
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:61
+#: alerts/wps_custom_post_alerts.php:60 forums/wps_custom_post_forum.php:63
+#: friendships/wps_custom_post_friendships.php:63
+#: friendships/wps_custom_post_friendships.php:281
+msgid "Custom field updated."
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:62
+#: alerts/wps_custom_post_alerts.php:61 forums/wps_custom_post_forum.php:64
+#: friendships/wps_custom_post_friendships.php:64
+#: friendships/wps_custom_post_friendships.php:282
+msgid "Custom field deleted."
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:64
+#, php-format
+msgid "Activity restored to revision from %s"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:65
+msgid "Activity published."
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:66
+msgid "Activity saved."
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:67
+msgid "Activity submitted."
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:68
+#, php-format
+msgid "Activity scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:68
+#: alerts/wps_custom_post_alerts.php:67 forums/wps_custom_post_forum.php:70
+#: friendships/wps_custom_post_friendships.php:70
+#: friendships/wps_custom_post_friendships.php:288
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:69
+msgid "Activity draft updated."
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:80
+msgid "Activity Details"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:92 wps_setup_admin.php:1841
+msgid "Author"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:96
+msgid "Target(s)"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:115
+msgid "Unhide"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:116
+msgid "Remove all hidden flags"
+msgstr ""
+
+#: activity/wps_custom_post_activity.php:180
+#: activity/wps_custom_post_activity.php:197
+#, php-format
+msgid "User %d not found"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:19
+msgid "Alerts per user"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:26
+msgid "Search"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:112 usermeta/wps_usermeta_help.php:381
+#: wps_setup_admin.php:2551
+msgid "Receive email notifications for activity"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:210 alerts/wps_custom_post_alerts.php:15
+#: alerts/wps_custom_post_alerts.php:16 alerts/wps_custom_post_alerts.php:21
+#: alerts/wps_custom_post_alerts.php:27 wps_admin.php:259
+#: wps_setup_admin.php:70 wps_setup_admin.php:3117
+msgid "Alerts"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:217
+msgid "WPS Pro alerts uses the internal WordPress wp_mail() function."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:218
+msgid ""
+"If you are experiencing high volumes, depending on your host, you may want "
+"to consider using an external mail server."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:219
+#, php-format
+msgid ""
+"There are several WordPress plugins available to support this, such as <a "
+"href=\"%s\">Postman SMTP Mailer/Email Log</a>."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:221
+#, php-format
+msgid ""
+"To view your schedule in the WordPress cron schedule, we recommend the <a "
+"href=\"%s\">WP Crontrol</a> plugin."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:228
+msgid "Disable alerts"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:233
+msgid "Stops alerts being sent out via email."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:240
+msgid "Frequency of Email alert notifications"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:247
+msgid ""
+"Frequency in seconds, that alerts are sent out via email, defaults to 3600 "
+"(every 1 hour)."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:248
+msgid ""
+"Remember, WordPress scheduled tasks are triggered by visits to your site."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:249
+msgid ""
+"Do not make too frequent, or your server performance may significantly "
+"deteriorate."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:250
+msgid "When you save this page, the next cycle will by triggered."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:259
+msgid "Emails to send"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:265
+msgid ""
+"Maximum number of emails to send per scheduled cycle (keep as low as "
+"possible)."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:266
+msgid ""
+"Ratio of this number to the above frequency, should be no less than 5:1. Eg: "
+"125 seconds frequency, sending out 25 emails."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:274
+msgid "Summary email"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:279
+msgid "Optional email address to receive summary of scheduled alerts sent."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:286
+msgid "Cron report"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:291
+msgid "Optional email to receive a detailed report from WPS cron activity."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:298
+msgid "From name"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:303
+msgid "Name alert notifications are sent from."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:310
+msgid "From email"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:315
+msgid "Email address alert notifications are sent from."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:322 alerts/wps_alerts_admin.php:445
+msgid "Test email"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:327
+#, php-format
+msgid "Tick to directly send a test email to %s using WordPress."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:334
+msgid "Alert retention"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:339
+#, php-format
+msgid ""
+"Delete successfully sent <a href=\"%s\">Alerts</a> immediately (removes from "
+"entire site)."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:346
+msgid "Failed Alerts"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:351
+#, php-format
+msgid ""
+"Re-send failed alerts (as failed alerts grow in number you should <a href="
+"\"%s\">consider removing them</a>). Not applicable to closed accounts."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:358
+msgid "Test alert"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:363
+#, php-format
+msgid "Tick to add a WP Symposium Pro <a href=\"%s\">Alert</a> to yourself."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:442
+msgid "Wahoo! It worked!"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:446
+#, php-format
+msgid "Test email sent to %s."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:448
+#, php-format
+msgid "Test email failed to send to %s."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:457 alerts/wps_alerts_admin.php:458
+msgid "Test Alert"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:460
+msgid "Test alert added."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:534
+#, php-format
+msgid "Started scheduled alerts at %s."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:536
+#, php-format
+msgid "Sending separate detailed cron report to %s."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:538
+msgid "NOT sending separate detailed cron report."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:546
+#, php-format
+msgid "Pending alerts returned: %d."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:550
+msgid "Starting to loop through them."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:558
+#, php-format
+msgid "Processing alert %d, ref:"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:580
+#, php-format
+msgid "Sending to %s, %s."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:587
+msgid "WordPress reports as sent successfully."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:589
+#, php-format
+msgid "Sent to: %s"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:594
+msgid "Alert marked as sent okay."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:598
+msgid "As checked in setup, alert deleted automatically."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:600
+msgid "As checked in setup, alert deleted automatically - but delete failed."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:605
+msgid "WordPress reports as FAILED to send."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:609
+#, php-format
+msgid "Failed to send to: %s"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:611
+msgid "Failed to send, name email."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:615
+msgid "Mail function failed."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:623 alerts/wps_alerts_admin.php:649
+msgid "Re-trying..."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:627
+msgid "Reason why:"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:633
+msgid "Closed account"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:635
+#, php-format
+msgid "Account %d closed."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:638
+#, php-format
+msgid "Recipient for post %d: %s not found."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:640
+#, php-format
+msgid "Recipient not found, with login of \"%s\" for alert %d."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:647
+msgid "no meta value"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:663
+msgid "Alerts disabled via setup"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:670
+msgid "Alerts disabled."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:674
+msgid "Hit maximum number of alerts to send."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:689
+#, php-format
+msgid "Maximum alerts to send: %d."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:690 alerts/wps_alerts_admin.php:695
+#, php-format
+msgid "Alerts sent: %d."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:692 alerts/wps_alerts_admin.php:708
+msgid "Scheduled Alerts (ref: "
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:697 alerts/wps_alerts_admin.php:711
+msgid "Cron report (ref: "
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:706 alerts/wps_alerts_admin.php:710
+#, php-format
+msgid "Cron already running from: %s."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:729
+msgid "Cron process reset."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:736
+#, php-format
+msgid "WP Symposium Cron current processing. Started at %s."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:740
+msgid "Reset"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:745
+msgid "WP Symposium Cron ready to process."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:748
+#, php-format
+msgid "Last processed: %s."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:768
+msgid "Content cleanup"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:771
+msgid ""
+"Run this if you delete users (one off operation, checkbox does not stay "
+"checked)."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:777
+msgid "Re-sync avatar meta"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:781
+msgid ""
+"Initiates re-sync, one-off operation, can take a while... (one off "
+"operation, checkbox does not stay checked)."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:808
+#, php-format
+msgid "%d users found."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:809
+#, php-format
+msgid "%d users with avatars found, all other users have no avatar uploaded."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:817
+msgid "Recent Comments Widget"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:820
+msgid ""
+"Include forum and activity replies in Recent Comments widget (forum security "
+"not observed)."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:825
+msgid "HTTPS detection"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:833
+msgid "Default"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:836
+msgid "Force on (https:)"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:839
+msgid "Force off (http:)"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:861
+msgid "Checking alerts..."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:877
+#, php-format
+msgid "Alert deleted (user ID %d does not exist)."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:880
+#, php-format
+msgid "Forum subscriptions for %s deleted."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:883
+#, php-format
+msgid "Forum topic subscriptions for %s deleted."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:891 alerts/wps_alerts_admin.php:894
+msgid "Alerts checked:"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:892
+msgid "deleted:"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:898
+msgid "Checking subscriptions..."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:908
+msgid "Subscriptions deleted:"
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:910
+msgid "No invalid subscriptions."
+msgstr ""
+
+#: alerts/wps_alerts_admin.php:916
+msgid "OK"
+msgstr ""
+
+#: alerts/wps_alerts_shortcodes.php:54 wps_setup_admin.php:737
+msgid "Recent alerts..."
+msgstr ""
+
+#: alerts/wps_alerts_shortcodes.php:55 wps_setup_admin.php:744
+msgid "No activity alerts"
+msgstr ""
+
+#: alerts/wps_alerts_shortcodes.php:56 wps_setup_admin.php:751
+#, php-format
+msgid "You have 1 new alert,You have %d new alerts,You have no new alerts"
+msgstr ""
+
+#: alerts/wps_alerts_shortcodes.php:57 wps_setup_admin.php:758
+msgid "Mark all as read"
+msgstr ""
+
+#: alerts/wps_alerts_shortcodes.php:58 wps_setup_admin.php:765
+msgid "Delete all"
+msgstr ""
+
+#: alerts/wps_alerts_shortcodes.php:59
+#, php-format
+msgid "%s ago."
+msgstr ""
+
+#: alerts/wps_alerts_shortcodes.php:150
+msgid "Set flag_url in shortcode"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:18
+msgid "Add New alert"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:19
+msgid "Edit alert"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:20
+msgid "New alert"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:22
+msgid "View alerts"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:23
+msgid "Search alerts"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:24
+msgid "No alerts found"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:25
+msgid "No alerts found in the Trash"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:59 alerts/wps_custom_post_alerts.php:62
+msgid "Alert updated."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:63
+#, php-format
+msgid "Alerts restored to revision from %s"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:64
+msgid "Alert published."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:65
+msgid "Alert saved."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:66
+msgid "Alert submitted."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:67
+#, php-format
+msgid "Alert scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:68
+msgid "Alerts draft updated."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:79
+msgid "Alert Details"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:92
+msgid "Sent date and time"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:97
+msgid "Failed to send date and time"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:102
+msgid "Recipient"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:103
+msgid "User login"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:110 alerts/wps_custom_post_alerts.php:111
+msgid "Page slug"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:113
+msgid "Parameters"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:114
+msgid "Querystring parameters"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:116
+msgid "URL"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:180
+msgid "waiting..."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:190
+#, php-format
+msgid "No recipient, <a href=\"%s\">clean up subscriptions</a>?"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:219
+msgid "Sent alerts removed (please wait, refreshing page...)."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:230
+msgid "Pending alerts removed (please wait, refreshing page...)."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:241
+msgid "All alerts removed (please wait, refreshing page...)."
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:255 alerts/wps_custom_post_alerts.php:256
+#: alerts/wps_custom_post_alerts.php:258 wps_setup_admin.php:53
+#: wps_setup_admin.php:3304
+msgid "Are you sure, this cannot be undone?"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:255
+msgid "Remove all sent alerts"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:256
+msgid "Remove all pending alerts"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:257
+msgid "re-send enabled"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:258
+msgid "Remove all alerts"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:260
+msgid "Cleanup invalid subscriptions"
+msgstr ""
+
+#: alerts/wps_custom_post_alerts.php:262
+msgid "Server time"
+msgstr ""
+
+#: avatar/wps_avatar.php:135
+msgid "Uploads"
+msgstr ""
+
+#: avatar/wps_avatar.php:135
+msgid "WordPress"
+msgstr ""
+
+#: avatar/wps_avatar.php:191
+msgid "You are not allowed to do that."
+msgstr ""
+
+#: avatar/wps_avatar.php:206 wps_setup_admin.php:835
+msgid "Choose an image from your computer:"
+msgstr ""
+
+#: avatar/wps_avatar.php:207 avatar/wps_avatar_shortcodes.php:180
+#: wps_setup_admin.php:842 wps_setup_admin.php:906
+msgid "Upload"
+msgstr ""
+
+#: avatar/wps_avatar.php:238 avatar/wps_avatar_shortcodes.php:185
+#: wps_setup_admin.php:927
+msgid "Please upload an image file (.jpeg, .gif, .png)."
+msgstr ""
+
+#: avatar/wps_avatar.php:247
+#, php-format
+msgid "Please upload an image file less than 500KB (yours was %dKB)."
+msgstr ""
+
+#: avatar/wps_avatar.php:304
+msgid "Crop Image"
+msgstr ""
+
+#: avatar/wps_avatar.php:376
+msgid "Avatar updated..."
+msgstr ""
+
+#: avatar/wps_avatar.php:388
+msgid "Sorry, No file available"
+msgstr ""
+
+#: avatar/wps_avatar.php:423
+msgid "Image could not be processed.  Please go back and try again."
+msgstr ""
+
+#: avatar/wps_avatar.php:423
+msgid "Image Processing Error"
+msgstr ""
+
+#: avatar/wps_avatar.php:646
+msgid "Picture"
+msgstr ""
+
+#: avatar/wps_avatar.php:650
+msgid "Upload and Crop and Image to be Displayed"
+msgstr ""
+
+#: avatar/wps_avatar.php:650
+msgid "Update Picture"
+msgstr ""
+
+#: avatar/wps_avatar.php:662
+msgid "Remove User Avatar Image"
+msgstr ""
+
+#: avatar/wps_avatar.php:662 avatar/wps_avatar.php:673
+msgid "Remove"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:46 avatar/wps_avatar_shortcodes.php:133
+#: wps_setup_admin.php:821 wps_setup_admin.php:1054
+msgid "Change Picture"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:47 avatar/wps_avatar_shortcodes.php:135
+#: wps_setup_admin.php:828 wps_setup_admin.php:1061
+msgid "Upload and Crop an Image to be Displayed"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:181 wps_setup_admin.php:892
+msgid ""
+"Step 1: Click on this link to choose an image and afterwards click the "
+"button below."
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:182 wps_setup_admin.php:899
+msgid ""
+"Step 2: First select an area on your uploaded image, and then click the crop "
+"button."
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:183 wps_setup_admin.php:913
+#, php-format
+msgid "Click here to choose an image... (maximum %dKB)"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:184 wps_setup_admin.php:920
+msgid "Try again..."
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:186 wps_setup_admin.php:934
+msgid "You are not allowed to change this avatar."
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:187 wps_setup_admin.php:941
+#, php-format
+msgid "Please upload an image file no larger than %dKB, yours was %dKB."
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:191
+#: friendships/wps_friendships_shortcodes.php:228
+#: usermeta/wps_usermeta_shortcodes.php:275 wps_setup_admin.php:1018
+#: wps_setup_admin.php:2114 wps_setup_admin.php:2539
+msgid "You must be logged in to view this page."
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:193 wps_setup_admin.php:969
+msgid "Flip"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:194 wps_setup_admin.php:976
+msgid "Rotate"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:195 wps_setup_admin.php:983
+msgid "Invert"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:196 wps_setup_admin.php:990
+msgid "Sketch"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:197 wps_setup_admin.php:997
+msgid "Pixelate"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:198 wps_setup_admin.php:1004
+msgid "Sepia"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:199 wps_setup_admin.php:1011
+msgid "Emboss"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:209
+msgid ""
+"Add login_url=\"/example\" to the [wps-avatar-change] shortcode to let users "
+"login and redirect back here when not logged in."
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:427
+msgid "Crop"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:465 avatar/wps_avatar_shortcodes.php:546
+msgid "Sorry, no file available"
+msgstr ""
+
+#: avatar/wps_avatar_shortcodes.php:514 avatar/wps_avatar_shortcodes.php:582
+msgid "Image could not be processed. Please try again."
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:16
+msgid "Posts"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:17 forums/wps_forum_edit.php:204
+#: forums/wps_forum_shortcodes.php:860 wps_setup_admin.php:1653
+msgid "Post"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:19
+msgid "Add New post"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:20
+msgid "Edit post"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:21
+msgid "New post"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:22 forums/wps_custom_post_forum.php:28
+msgid "Forum Posts"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:23
+msgid "View Forum Post"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:24
+msgid "Search Forum Posts"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:25
+msgid "No forum post found"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:26
+msgid "No forum post found in the Trash"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:62 forums/wps_custom_post_forum.php:65
+msgid "Post updated."
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:66
+#, php-format
+msgid "Post restored to revision from %s"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:67
+msgid "Post published."
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:68
+msgid "Post saved."
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:69
+msgid "Post submitted."
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:70
+#, php-format
+msgid "Post scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:71
+msgid "Post draft updated."
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:85
+msgid "Post Details"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:97
+msgid "Post author"
+msgstr ""
+
+#: forums/wps_custom_post_forum.php:105 forums/wps_forum_edit.php:276
+msgid "Stick to top of posts?"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:33
+#: forums/wps_custom_taxonomy_forum.php:43 wps_admin.php:245
+#: wps_setup_admin.php:72 wps_setup_admin.php:3118 wps_setup_admin.php:3328
+msgid "Forums"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:34 forums/wps_forum_admin.php:135
+#: forums/wps_forum_help.php:99 forums/wps_forum_shortcodes.php:1536
+#: wps_setup_admin.php:1723 wps_setup_admin.php:3161
+msgid "Forum"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:35
+msgid "Search Forums"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:36 forums/wps_forum_admin.php:15
+#: forums/wps_forum_help.php:14
+msgid "All Forums"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:37
+msgid "Parent Forum"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:38
+msgid "Parent Forum:"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:39
+msgid "Edit Forum"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:40
+msgid "Update Forum"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:41
+msgid "Add New Forum"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:42
+msgid "New Forum Name"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:61
+#: forums/wps_custom_taxonomy_forum.php:102 forums/wps_forum_admin.php:139
+msgid "Visibility"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:63
+#: forums/wps_custom_taxonomy_forum.php:106
+msgid "Can this forum be viewed without logging in?"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:67
+#: forums/wps_custom_taxonomy_forum.php:171 forums/wps_forum_admin.php:136
+#: wps_setup_admin.php:1847
+msgid "Order"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:69
+#: forums/wps_custom_taxonomy_forum.php:175
+msgid "Order in which the forum is shown, in a list of forums."
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:73
+#: forums/wps_custom_taxonomy_forum.php:202
+msgid "WordPress page"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:76
+#: forums/wps_custom_taxonomy_forum.php:208 usermeta/wps_usermeta_help.php:128
+#: usermeta/wps_usermeta_help.php:158 usermeta/wps_usermeta_help.php:188
+msgid "Select page..."
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:86
+#, php-format
+msgid ""
+"WordPress page that has this forum's shortcodes on.<br />See <a href=\"%s"
+"\">Getting Started</a> information."
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:87
+#: forums/wps_custom_taxonomy_forum.php:224
+msgid "Make sure your forum slug matches your forum page slug."
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:88
+#: forums/wps_custom_taxonomy_forum.php:225
+msgid "Your forum page should not have a parent page."
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:90
+msgid "Go to Forum Administration"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:112 forums/wps_forum_help.php:108
+msgid "Auto-close period"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:121
+#, php-format
+msgid ""
+"Number of days after no activity that a forum post will close automatically "
+"(if left blank, default is used from <a href=\"%s\">Setup->Forum</a>)."
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:127
+msgid "Lock forum"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:131
+msgid "Lock this forum, stopping new posts and replies"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:138
+msgid "Auto subscribe"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:142
+msgid ""
+"Automatically subscribe new users to this forum (users can then choose to "
+"opt-out)"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:150
+msgid "Email all members"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:154
+msgid ""
+"Always send email alert to all site members when new topics are added (no "
+"opt-out)"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:161
+msgid "Show own posts"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:165
+msgid "Only show posts by current user (administrators always see all)"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:181
+msgid "ShareThis"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:186
+#, php-format
+msgid ""
+"On <a href=\"%s\" target=\"_blank\">ShareThis</a>, choose \"website code"
+"\" (not Wordpress) and copy the two sets of code supplied below (applies to "
+"all forums). Use [wps-forum-sharethis slug=\"xxx\"] to display."
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:193
+msgid "1. Span tags (code for displaying your buttons)"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:195
+msgid "2. Script tags"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:221
+msgid "WordPress page that has this forum's shortcodes on."
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:222 forums/wps_forum_admin.php:149
+#: forums/wps_forum_post.php:303 forums/wps_forum_post.php:481
+#: forums/wps_forum_post.php:603
+msgid "Edit"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:232
+msgid "Featured Image"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:236
+msgid "Select from Media Library"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:238
+msgid "URL of an image that, if set, is used with the [wps-forums] shortcode."
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:332
+msgid "Back to Manage All Forums"
+msgstr ""
+
+#: forums/wps_custom_taxonomy_forum.php:335
+msgid ""
+"Please remember that your forum slug must always match the slug of the page "
+"your forum is operating on, and that forum page should not have a parent "
+"page. For example, if your forum slug is general-forum it must be on a page "
+"with a slug of general-forum. The forum name can be anything you want."
+msgstr ""
+
+#: forums/wps_forum_admin.php:137
+msgid "Privacy"
+msgstr ""
+
+#: forums/wps_forum_admin.php:138 wps_setup_admin.php:1854
+#: wps_setup_admin.php:2248
+msgid "Status"
+msgstr ""
+
+#: forums/wps_forum_admin.php:140
+msgid "Autosubscribe"
+msgstr ""
+
+#: forums/wps_forum_admin.php:151
+msgid "Page"
+msgstr ""
+
+#: forums/wps_forum_admin.php:152
+msgid "View"
+msgstr ""
+
+#: forums/wps_forum_admin.php:154
+msgid "Select WordPress page..."
+msgstr ""
+
+#: forums/wps_forum_admin.php:167 forums/wps_forum_admin.php:170
+msgid "Private"
+msgstr ""
+
+#: forums/wps_forum_admin.php:168 forums/wps_forum_admin.php:171
+msgid "Public"
+msgstr ""
+
+#: forums/wps_forum_admin.php:178 forums/wps_forum_admin.php:181
+#: wps_setup_admin.php:1284 wps_setup_admin.php:1858
+msgid "Open"
+msgstr ""
+
+#: forums/wps_forum_admin.php:179 forums/wps_forum_admin.php:182
+#: wps_setup_admin.php:1285 wps_setup_admin.php:1859
+msgid "Closed"
+msgstr ""
+
+#: forums/wps_forum_admin.php:189 forums/wps_forum_admin.php:192
+#: wps_setup_admin.php:1771 wps_setup_admin.php:1857
+msgid "All"
+msgstr ""
+
+#: forums/wps_forum_admin.php:190 forums/wps_forum_admin.php:193
+msgid "Just own"
+msgstr ""
+
+#: forums/wps_forum_admin.php:201 forums/wps_forum_admin.php:204
+#: forums/wps_forum_edit.php:43 forums/wps_forum_edit.php:103
+msgid "No"
+msgstr ""
+
+#: forums/wps_forum_admin.php:202 forums/wps_forum_admin.php:205
+msgid "Yes"
+msgstr ""
+
+#: forums/wps_forum_admin.php:215 forums/wps_forum_edit.php:205
+#: forums/wps_forum_edit.php:342 usermeta/wps_usermeta_shortcodes.php:261
+#: wps_admin.php:828 wps_setup_admin.php:1471 wps_setup_admin.php:2475
+msgid "Update"
+msgstr ""
+
+#: forums/wps_forum_admin.php:218
+msgid "Add a forum via Setup"
+msgstr ""
+
+#: forums/wps_forum_edit.php:41
+msgid "Are you sure you want to delete this post and all the replies?"
+msgstr ""
+
+#: forums/wps_forum_edit.php:42
+msgid "Yes, delete the post"
+msgstr ""
+
+#: forums/wps_forum_edit.php:101
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: forums/wps_forum_edit.php:102
+msgid "Yes, delete"
+msgstr ""
+
+#: forums/wps_forum_edit.php:202 forums/wps_forum_shortcodes.php:858
+#: wps_setup_admin.php:1649
+msgid "Post title"
+msgstr ""
+
+#: forums/wps_forum_edit.php:206 forums/wps_forum_edit.php:343
+#: wps_setup_admin.php:1475
+msgid "Cancel"
+msgstr ""
+
+#: forums/wps_forum_edit.php:207 forums/wps_forum_edit.php:344
+#: forums/wps_forum_shortcodes.php:862 wps_setup_admin.php:1479
+#: wps_setup_admin.php:1673
+msgid "Your post will appear once it has been moderated."
+msgstr ""
+
+#: forums/wps_forum_edit.php:305
+msgid "No permission to edit."
+msgstr ""
+
+#: forums/wps_forum_edit.php:398
+msgid "Not the comment owner"
+msgstr ""
+
+#: forums/wps_forum_help.php:13
+msgid "Forum Setup"
+msgstr ""
+
+#: forums/wps_forum_help.php:22
+msgid "Add Forum"
+msgstr ""
+
+#: forums/wps_forum_help.php:28
+msgid "Enter name of new forum"
+msgstr ""
+
+#: forums/wps_forum_help.php:30
+msgid "Enter description of new forum"
+msgstr ""
+
+#: forums/wps_forum_help.php:32
+msgid "Publish"
+msgstr ""
+
+#: forums/wps_forum_help.php:58
+msgid "You have already added this Forum."
+msgstr ""
+
+#: forums/wps_forum_help.php:83
+#, php-format
+msgid "Forum Page (%s) added. [<a href=\"%s\">view</a>]"
+msgstr ""
+
+#: forums/wps_forum_help.php:84
+#, php-format
+msgid ""
+"If you are using the <a href=\"%s\">Forum Roles Security</a> extension, "
+"choose who can see the forum via <a href=\"%s\">WPS Pro->Manage All Forums</"
+"a>."
+msgstr ""
+
+#: forums/wps_forum_help.php:85
+#, php-format
+msgid "You might want to add it to your <a href=\"%s\">WordPress menu</a>."
+msgstr ""
+
+#: forums/wps_forum_help.php:112
+#, php-format
+msgid ""
+"Default number of days after no activity that a forum post will close "
+"automatically (blank for never). Can be overridden for individual forums via "
+"Edit on <a href=\"%s\">Manage All Forums</a>."
+msgstr ""
+
+#: forums/wps_forum_help.php:117
+msgid "Slug length"
+msgstr ""
+
+#: forums/wps_forum_help.php:122
+msgid "Maximum length for forum post titles in URLs."
+msgstr ""
+
+#: forums/wps_forum_help.php:127 usermeta/wps_usermeta_help.php:244
+msgid "Sticky posts"
+msgstr ""
+
+#: forums/wps_forum_help.php:134
+msgid "Only display sticky option to site administrator."
+msgstr ""
+
+#: forums/wps_forum_post.php:54 forums/wps_forum_shortcodes.php:657
+msgid "Failed to find forum post with topic_id"
+msgstr ""
+
+#: forums/wps_forum_post.php:266 forums/wps_forum_post.php:441
+#: forums/wps_forum_post.php:636
+msgid "(unknown)"
+msgstr ""
+
+#: forums/wps_forum_post.php:304 forums/wps_forum_post.php:482
+#: forums/wps_forum_post.php:604
+#, php-format
+msgid "lock in %d seconds"
+msgstr ""
+
+#: forums/wps_forum_posts.php:194
+#, php-format
+msgid "Forum file does not exist (\"%s\")."
+msgstr ""
+
+#: forums/wps_forum_posts.php:205
+#, php-format
+msgid "Invalid \"style\" option for forum shortcode (\"%s\")."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:51 forums/wps_forum_shortcodes.php:1082
+#: forums/wps_forum_shortcodes.php:1602 wps_setup_admin.php:1138
+#: wps_setup_admin.php:1618 wps_setup_admin.php:1799
+msgid "Topic"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:52 forums/wps_forum_shortcodes.php:1083
+#: forums/wps_forum_shortcodes.php:1258 forums/wps_forum_shortcodes.php:1603
+#: wps_setup_admin.php:1142 wps_setup_admin.php:1622 wps_setup_admin.php:1803
+#: wps_setup_admin.php:2034
+msgid "Replies"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:53 forums/wps_forum_shortcodes.php:1084
+#: forums/wps_forum_shortcodes.php:1604 wps_setup_admin.php:1146
+#: wps_setup_admin.php:1626 wps_setup_admin.php:1807
+msgid "Last activity"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:60
+#, php-format
+msgid ""
+"Please add slug=\"xxx\" to the shortcode, where xxx is the <a href=\"%s"
+"\">slug of the forum</a>. For example, [wps-forum-page slug=\"my-general-"
+"forum\"]."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:98 wps_setup_admin.php:1936
+#, php-format
+msgid "%s %s %s %s ago %s"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:99 wps_setup_admin.php:1944
+msgid "started"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:100 wps_setup_admin.php:1948
+msgid "replied to"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:101 wps_setup_admin.php:1952
+msgid "commented on"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:106 forums/wps_forum_shortcodes.php:1081
+#: wps_setup_admin.php:1332 wps_setup_admin.php:1875
+msgid "closed"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:108 wps_setup_admin.php:1883
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:113 wps_setup_admin.php:1903
+msgid "read"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:114 wps_setup_admin.php:1907
+msgid "No posts"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:130 forums/wps_forum_shortcodes.php:1044
+#: wps_setup_admin.php:1227
+msgid "NEW!"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:559 wps_setup_admin.php:1503
+#, php-format
+msgid "Back to %s..."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:567 forums/wps_forum_shortcodes.php:641
+msgid ""
+"Please add slug=\"xxx\" to the shortcode, where xxx is the slug of the forum."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:617 wps_setup_admin.php:1519
+msgid "Add Reply"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:619 forums/wps_forum_shortcodes.php:863
+#: wps_setup_admin.php:1539
+msgid "This forum is locked. New posts and replies are not allowed."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:620 wps_setup_admin.php:1535
+msgid "You do not have permission to reply on this forum."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:623 wps_setup_admin.php:1547
+msgid "Your comment will appear once it has been moderated."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:625 wps_setup_admin.php:1559
+msgid "Tick to close this post"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:626 wps_setup_admin.php:1563
+msgid "This post is closed."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:627 wps_setup_admin.php:1567
+msgid "Re-open this post"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:629 wps_setup_admin.php:1575
+msgid "You can only reply once on this forum."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:631 wps_setup_admin.php:1587
+#, php-format
+msgid "Only share reply with %s"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:632 wps_setup_admin.php:1591
+msgid "Show in:"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:859 wps_setup_admin.php:1699
+msgid "Post to"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:861 wps_setup_admin.php:1657
+msgid "Add Topic"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:876
+msgid ""
+"Please add slug=\"xxx\" to the shortcode, where xxx is the slug of the forum "
+"or slug=\"choose\" to allow users to select which forum to post to."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1028 wps_setup_admin.php:1157
+#, php-format
+msgid "Started by %s %s"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1029 wps_setup_admin.php:1161
+#, php-format
+msgid "Last replied to by %s %s"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1030 wps_setup_admin.php:1165
+#, php-format
+msgid "Last commented on by %s %s"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1035 wps_setup_admin.php:1185
+msgid "VIEW"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1036 wps_setup_admin.php:1189
+msgid "VIEWS"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1037 wps_setup_admin.php:1193
+msgid "REPLY"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1038 wps_setup_admin.php:1197
+msgid "REPLIES"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1045 forums/wps_forum_shortcodes.php:1060
+#: wps_setup_admin.php:1359
+msgid "No replies"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1046 forums/wps_forum_shortcodes.php:1061
+#: wps_setup_admin.php:1363
+msgid "1 reply"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1047 forums/wps_forum_shortcodes.php:1062
+#: wps_setup_admin.php:1367
+#, php-format
+msgid "%d replies"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1048 forums/wps_forum_shortcodes.php:1063
+#: wps_setup_admin.php:1371
+msgid "and 1 comment"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1049 forums/wps_forum_shortcodes.php:1064
+#: wps_setup_admin.php:1375
+#, php-format
+msgid "and %d comments"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1054 forums/wps_forum_shortcodes.php:1098
+#: wps_setup_admin.php:1248 wps_setup_admin.php:1413
+msgid "First"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1055 forums/wps_forum_shortcodes.php:1099
+#: wps_setup_admin.php:1252 wps_setup_admin.php:1417
+msgid "Previous"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1056 forums/wps_forum_shortcodes.php:1100
+#: wps_setup_admin.php:1256 wps_setup_admin.php:1421
+msgid "Next"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1057 forums/wps_forum_shortcodes.php:1101
+#: wps_setup_admin.php:1260 wps_setup_admin.php:1425
+#, php-format
+msgid "On page %d of %d"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1068 wps_setup_admin.php:1134
+#, php-format
+msgid " by %s"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1072 wps_setup_admin.php:1297
+msgid "Include closed posts"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1073 wps_setup_admin.php:1301
+msgid "You must be logged in to view this forum."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1075 wps_setup_admin.php:1308
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1076 wp_symposium_pro.php:546
+#: wps_setup_admin.php:1312
+msgid "You do not have permission to view this post."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1077 wps_setup_admin.php:1316
+msgid "No forum posts."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1078 wps_setup_admin.php:1320
+msgid "Post deleted."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1079 forums/wps_forum_shortcodes.php:1080
+#: wps_setup_admin.php:1324 wps_setup_admin.php:1328
+msgid "pending"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1085 wps_setup_admin.php:1150
+msgid "When"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1086 wps_setup_admin.php:1336
+#, php-format
+msgid "%s successfully moved to %s"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1110 wps_setup_admin.php:1467
+msgid "Add comment"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1112 wps_setup_admin.php:1487
+msgid "PRIVATE REPLY"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1126
+msgid ""
+"Please add slug=\"xxx\" to the [wps-forum] shortcode, where xxx is the slug "
+"of the forum. For example, [wps-forum slug=\"my-general-forum\"]."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1144
+msgid ""
+"Add login_url=\"/example\" to the [wps-forum] shortcode to let users login "
+"and redirect back here when not logged in, and the forum is set as private."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1222
+#, php-format
+msgid "Forum (%s) does not exist."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1251 wps_setup_admin.php:2000
+msgid "Child Forum"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1253 forums/wps_forum_shortcodes.php:1259
+#: forums/wps_forum_shortcodes.php:1538 wps_setup_admin.php:1731
+#: wps_setup_admin.php:2008 wps_setup_admin.php:2038
+msgid "Last Poster"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1254 forums/wps_forum_shortcodes.php:1260
+#: forums/wps_forum_shortcodes.php:1539 wps_setup_admin.php:1735
+#: wps_setup_admin.php:2012 wps_setup_admin.php:2042
+msgid "Freshness"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1270
+msgid ""
+"Please add slug=\"xxx\" to the shortcode, where xxx is the slug of the "
+"parent forum."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1535 wps_setup_admin.php:1719
+msgid "Quick jump to forum..."
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1537 wps_setup_admin.php:1727
+msgid "Count"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1682 forums/wps_forum_shortcodes.php:1701
+msgid "No user found"
+msgstr ""
+
+#: forums/wps_forum_shortcodes.php:1909
+#, php-format
+msgid ""
+"Please add slug=\"xxx\" to the shortcode, where xxx is the <a href=\"%s"
+"\">slug of the forum</a>."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:16
+#: friendships/wps_custom_post_friendships.php:22
+#: friendships/wps_custom_post_friendships.php:28
+#: friendships/wps_friendships_help.php:15 wps_setup_admin.php:3116
+msgid "Friendships"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:17
+msgid "Friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:19
+msgid "Add New Friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:20
+msgid "Edit Friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:21
+msgid "New Friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:23
+msgid "View Friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:24
+msgid "Search Friendships"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:25
+msgid "No friendships found"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:26
+msgid "No friendships found in the Trash"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:62
+#: friendships/wps_custom_post_friendships.php:65
+msgid "Friendship updated."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:66
+#, php-format
+msgid "Friendship restored to revision from %s"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:67
+msgid "Friendships published."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:68
+msgid "Friendship saved."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:69
+#: friendships/wps_custom_post_friendships.php:287
+msgid "Friendship submitted."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:70
+#, php-format
+msgid "Friendship scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:71
+msgid "Friendship draft updated."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:85
+msgid "wps_friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:99
+#: friendships/wps_custom_post_friendships.php:318
+msgid "User 1"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:102
+msgid "Select first user..."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:104
+msgid "is friends with..."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:106
+#: friendships/wps_custom_post_friendships.php:325
+msgid "User 2"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:109
+msgid "Select second user..."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:153
+msgid "Friendship already exists."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:193
+#: friendships/wps_custom_post_friendships.php:203
+#: friendships/wps_custom_post_friendships.php:413
+#: friendships/wps_custom_post_friendships.php:423
+msgid "User not found"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:210
+#: usermeta/wps_usermeta_help.php:88 wps_setup_admin.php:73
+msgid "Friends"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:212
+#: friendships/wps_custom_post_friendships.php:432 wps_setup_admin.php:2252
+msgid "Pending"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:232
+#: friendships/wps_custom_post_friendships.php:238
+#: friendships/wps_custom_post_friendships.php:244
+msgid "Favourite Friendships"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:233
+msgid "Favourite Friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:235
+msgid "Add New Favourite"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:236
+msgid "Edit Favourite Friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:237
+msgid "New Favourite Friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:239
+msgid "View Favourite Friendship"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:240
+msgid "Search Favourite Friendships"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:241
+msgid "No favourite friendships found"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:242
+msgid "No favourite friendships found in the Trash"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:280
+#: friendships/wps_custom_post_friendships.php:283
+msgid "Favourite Friendship updated."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:284
+#, php-format
+msgid "Favourite Friendship restored to revision from %s"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:285
+msgid "Favourite Friendships published."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:286
+msgid "Favourite Friendship saved."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:288
+#, php-format
+msgid "Favourite Friendship scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:289
+msgid "Favourite Friendship draft updated."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:305
+msgid "Favourite Friend"
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:321
+msgid "Select user..."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:323
+msgid "has a favourite friend..."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:328
+msgid "Select favourite user..."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:373
+msgid "Favourite Friendship already exists."
+msgstr ""
+
+#: friendships/wps_custom_post_friendships.php:430
+msgid "Favourite"
+msgstr ""
+
+#: friendships/wps_friendships_core.php:70
+msgid "New friendship request"
+msgstr ""
+
+#: friendships/wps_friendships_core.php:79
+#, php-format
+msgid "Friendship request from %s."
+msgstr ""
+
+#: friendships/wps_friendships_core.php:165
+msgid "Friendship request accepted"
+msgstr ""
+
+#: friendships/wps_friendships_core.php:181
+#, php-format
+msgid "Friend request accepted by %s."
+msgstr ""
+
+#: friendships/wps_friendships_help.php:24
+msgid "Everybody friends"
+msgstr ""
+
+#: friendships/wps_friendships_help.php:28
+msgid ""
+"Makes every user friends with everyone else, always. Good for private social "
+"networks."
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:50 wps_setup_admin.php:2345
+msgid "Remove as Favourite"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:51 wps_setup_admin.php:2341
+msgid "Add as Favourite"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:52 wps_setup_admin.php:2353
+msgid "Removed as a favourite."
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:53 wps_setup_admin.php:2349
+msgid "Added as a favourite."
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:110 wps_setup_admin.php:2146
+msgid "You are friends"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:111 wps_setup_admin.php:2150
+msgid "You have requested to be friends"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:112 wps_setup_admin.php:2154
+msgid "You have a friends request"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:113 wps_setup_admin.php:2158
+msgid "You are not friends"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:163
+#: usermeta/wps_usermeta_help.php:714 usermeta/wps_usermeta_shortcodes.php:782
+#: wps_setup_admin.php:2214
+msgid "Make friends"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:164 wps_setup_admin.php:2218
+msgid "Cancel friendship"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:165 wps_setup_admin.php:2222
+msgid "Cancel friendship request"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:223 wps_setup_admin.php:2091
+msgid "Last seen:"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:225 wps_setup_admin.php:2099
+msgid "Private information"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:226 wps_setup_admin.php:2103
+msgid "No friends"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:230 wps_setup_admin.php:2122
+msgid "Remove all friends"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:231 wps_setup_admin.php:2126
+msgid "Are you sure? This cannot be undone!"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:241 wps_setup_admin.php:2357
+msgid "Add/remove as a favourite"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:252
+msgid ""
+"Add login_url=\"/example\" to the [wps-friends] shortcode to let users login "
+"and redirect back here when not logged in."
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:414 wps_setup_admin.php:2190
+msgid "Accept"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:415
+#: usermeta/wps_usermeta_help.php:738 usermeta/wps_usermeta_shortcodes.php:785
+#: usermeta/wps_usermeta_shortcodes.php:786 wps_setup_admin.php:2194
+msgid "Reject"
+msgstr ""
+
+#: friendships/wps_friendships_shortcodes.php:595
+msgid ""
+"Set flag_url in WPS Pro->Setup->Default Shortcode Settings (Friends), or in "
+"the shortcode, in shortcode for the link, probably to the page with [wps-"
+"friends] on it."
+msgstr ""
+
+#: usermeta/wps_usermeta.php:43
+msgid "This account is closed."
+msgstr ""
+
+#: usermeta/wps_usermeta.php:108
+msgid "WP Symposium Pro"
+msgstr ""
+
+#: usermeta/wps_usermeta.php:117 usermeta/wps_usermeta_shortcodes.php:666
+#: wps_setup_admin.php:2591
+msgid "Close account"
+msgstr ""
+
+#: usermeta/wps_usermeta.php:120
+msgid "All personal information will be deleted, this cannot be undone."
+msgstr ""
+
+#: usermeta/wps_usermeta.php:127
+msgid "Re-open account"
+msgstr ""
+
+#: usermeta/wps_usermeta.php:130
+msgid ""
+"You can optionally set the password, email address, etc, above before saving."
+msgstr ""
+
+#: usermeta/wps_usermeta.php:142
+msgid "Please enter your town or city."
+msgstr ""
+
+#: usermeta/wps_usermeta.php:150
+msgid "Please enter your country."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:29
+msgid "Add Profile Pages"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:46 wps_setup_admin.php:75
+#: wps_setup_admin.php:3113
+msgid "Profile"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:60 usermeta/wps_usermeta_shortcodes.php:625
+#: wps_setup_admin.php:2571
+msgid "Edit Profile"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:74
+msgid "Change Avatar"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:97
+#, php-format
+msgid "Profile Page (%s) added. [<a href=\"%s\">view</a>]"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:98
+#, php-format
+msgid "Edit Profile Page (%s) added. [<a href=\"%s\">view</a>]"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:99
+#, php-format
+msgid "Change Avatar Page (%s) added. [<a href=\"%s\">view</a>]"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:100
+#, php-format
+msgid "Friends Page (%s) added. [<a href=\"%s\">view</a>]"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:101
+#, php-format
+msgid "You might want to add them to your <a href=\"%s\">WordPress menu</a>."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:113 usermeta/wps_usermeta_help.php:122
+#: usermeta/wps_usermeta_help.php:262
+msgid "Profile Page"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:124
+msgid "Your profile page must not have a parent page."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:129 usermeta/wps_usermeta_help.php:159
+#: usermeta/wps_usermeta_help.php:189
+msgid "Reset..."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:141
+msgid "WordPress page that profile links go to."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:144 usermeta/wps_usermeta_help.php:174
+#: usermeta/wps_usermeta_help.php:204
+msgid "edit"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:145 usermeta/wps_usermeta_help.php:175
+#: usermeta/wps_usermeta_help.php:205
+msgid "view"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:153 usermeta/wps_usermeta_help.php:274
+#: usermeta/wps_usermeta_help.php:360
+msgid "Edit Profile Page"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:171
+msgid "WordPress page that allows user to edit their profile."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:183 usermeta/wps_usermeta_help.php:286
+msgid "Change Avatar Page"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:201
+msgid "WordPress page that allows user to change their avatar."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:213
+msgid "Profile Parameter"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:218
+msgid "Do not use usernames for profile page links"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:226
+msgid "Posts to all friends"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:229
+msgid ""
+"When an activity post will be sent to all friends, should an alert be "
+"generated?"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:235
+msgid "Activity post focus"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:238
+msgid "When profile page is loaded, set focus to activity post textarea."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:247
+msgid "Limit sticky post option to site administrator only."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:256
+msgid "Getting Started"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:258
+msgid ""
+"Either click on \"<a href=\"#\">Add Profile Pages</a>\" at the top of this "
+"page, or..."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:265 usermeta/wps_usermeta_help.php:277
+#: usermeta/wps_usermeta_help.php:289
+#, php-format
+msgid ""
+"<a href=\"%s\">Create a WordPress page</a>, then select it above, and save. "
+"When you have done that, some example shortcodes will be shown here that you "
+"can copy into that page."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:267
+msgid "Copy the following shortcode"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:267
+msgid "edit your \"Profile\" page"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:267 usermeta/wps_usermeta_help.php:279
+#: usermeta/wps_usermeta_help.php:291
+msgid "and paste the shortcodes to get started."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:269
+msgid "Creates a profile page with key elements"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:270 usermeta/wps_usermeta_help.php:282
+#: usermeta/wps_usermeta_help.php:294
+msgid "more examples..."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:279 usermeta/wps_usermeta_help.php:291
+msgid "Copy the following shortcodes"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:279
+msgid "edit your \"Edit Profile\" page"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:281
+msgid "Let's the user change their profile details"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:291
+msgid "edit your \"Change Avatar\" page"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:293
+msgid "Let's the user upload and crop their avatar"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:298
+msgid "Adding the Pages to your Site"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:299
+#, php-format
+msgid ""
+"Once you have created your pages, you may want to add them to your <a href="
+"\"%s\">site menu</a>."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:366
+msgid "Options available to user"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:377
+msgid "Password strength meter"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:377 usermeta/wps_usermeta_help.php:381
+msgid "Check to hide on Edit Profile page"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:378
+msgid "Password strength options"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:378
+msgid "comma seperated, all 5 required"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:379
+msgid "Change avatar effects"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:379
+msgid "comma seperated (delete to reset)"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:380
+#, php-format
+msgid ""
+"Enable, and change the labels via <a href=\"%s\">Shortcodes</a>->Avatar-"
+">[wps-avatar-change]"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:452
+msgid "Tabs"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:454
+msgid ""
+"You can have up to 10 tabs on the edit profile page. Set them up by entering "
+"a description (blank tabs are not displayed).<br />"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:455
+#, php-format
+msgid ""
+"Then below, after saving, you can choose which tab various items appear on "
+"(including <a href=\"%s\" target=\"_blank\">profile extensions</a> if you "
+"are using that feature)."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:477
+msgid "Tab 1:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:478
+msgid "Tab 2:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:479
+msgid "Tab 3:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:480
+msgid "Tab 4:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:481
+msgid "Tab 5:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:482
+msgid "Tab 6:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:483
+msgid "Tab 7:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:484
+msgid "Tab 8:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:485
+msgid "Tab 9:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:486
+msgid "Tab 10:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:487
+msgid "Active Tab Color:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:488
+msgid "Active Tab Text Color:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:489
+msgid "Inactive Tab Color:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:490
+msgid "Inactive Tab Text Color:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:491
+msgid "Tab Animation:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:495
+msgid "Slide"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:498
+msgid "Fade"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:501
+msgid "None"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:581 wps_setup_admin.php:1291
+msgid "Do not show"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:659 usermeta/wps_usermeta_help.php:696
+#: wps_setup_admin.php:166 wps_setup_admin.php:178 wps_setup_admin.php:190
+#: wps_setup_admin.php:202 wps_setup_admin.php:214 wps_setup_admin.php:228
+#: wps_setup_admin.php:460 wps_setup_admin.php:526 wps_setup_admin.php:575
+#: wps_setup_admin.php:615 wps_setup_admin.php:642 wps_setup_admin.php:671
+#: wps_setup_admin.php:794 wps_setup_admin.php:886 wps_setup_admin.php:1038
+#: wps_setup_admin.php:1076 wps_setup_admin.php:1497 wps_setup_admin.php:1513
+#: wps_setup_admin.php:1601 wps_setup_admin.php:1643 wps_setup_admin.php:1709
+#: wps_setup_admin.php:1833 wps_setup_admin.php:1974 wps_setup_admin.php:2055
+#: wps_setup_admin.php:2069 wps_setup_admin.php:2140 wps_setup_admin.php:2168
+#: wps_setup_admin.php:2208 wps_setup_admin.php:2236 wps_setup_admin.php:2267
+#: wps_setup_admin.php:2328 wps_setup_admin.php:2369 wps_setup_admin.php:2444
+#: wps_setup_admin.php:2468 wps_setup_admin.php:2565 wps_setup_admin.php:2581
+#: wps_setup_admin.php:2613 wps_setup_admin.php:2640
+msgid "Purpose:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:659
+msgid "Hides content if no user found."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:660 usermeta/wps_usermeta_help.php:697
+#: wps_setup_admin.php:167 wps_setup_admin.php:179 wps_setup_admin.php:191
+#: wps_setup_admin.php:203 wps_setup_admin.php:215 wps_setup_admin.php:229
+#: wps_setup_admin.php:461 wps_setup_admin.php:527 wps_setup_admin.php:576
+#: wps_setup_admin.php:616 wps_setup_admin.php:643 wps_setup_admin.php:672
+#: wps_setup_admin.php:795 wps_setup_admin.php:887 wps_setup_admin.php:1039
+#: wps_setup_admin.php:1077 wps_setup_admin.php:1498 wps_setup_admin.php:1514
+#: wps_setup_admin.php:1602 wps_setup_admin.php:1644 wps_setup_admin.php:1710
+#: wps_setup_admin.php:1834 wps_setup_admin.php:1975 wps_setup_admin.php:2056
+#: wps_setup_admin.php:2070 wps_setup_admin.php:2141 wps_setup_admin.php:2169
+#: wps_setup_admin.php:2209 wps_setup_admin.php:2237 wps_setup_admin.php:2268
+#: wps_setup_admin.php:2329 wps_setup_admin.php:2370 wps_setup_admin.php:2445
+#: wps_setup_admin.php:2469 wps_setup_admin.php:2566 wps_setup_admin.php:2582
+#: wps_setup_admin.php:2614 wps_setup_admin.php:2641
+msgid "How to use:"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:660
+msgid ""
+"Add [wps-user-exists-content]CONTENT[/wps-user-exists-content] to a "
+"WordPress Page, Post or Text widget. CONTENT will only be shown if a user is "
+"found."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:662 usermeta/wps_usermeta_help.php:699
+#: wps_setup_admin.php:169 wps_setup_admin.php:181 wps_setup_admin.php:193
+#: wps_setup_admin.php:205 wps_setup_admin.php:217 wps_setup_admin.php:231
+#: wps_setup_admin.php:463 wps_setup_admin.php:529 wps_setup_admin.php:578
+#: wps_setup_admin.php:618 wps_setup_admin.php:645 wps_setup_admin.php:674
+#: wps_setup_admin.php:797 wps_setup_admin.php:889 wps_setup_admin.php:1041
+#: wps_setup_admin.php:1079 wps_setup_admin.php:1500 wps_setup_admin.php:1516
+#: wps_setup_admin.php:1604 wps_setup_admin.php:1646 wps_setup_admin.php:1712
+#: wps_setup_admin.php:1836 wps_setup_admin.php:1977 wps_setup_admin.php:2058
+#: wps_setup_admin.php:2072 wps_setup_admin.php:2143 wps_setup_admin.php:2171
+#: wps_setup_admin.php:2211 wps_setup_admin.php:2239 wps_setup_admin.php:2270
+#: wps_setup_admin.php:2331 wps_setup_admin.php:2373 wps_setup_admin.php:2447
+#: wps_setup_admin.php:2472 wps_setup_admin.php:2568 wps_setup_admin.php:2584
+#: wps_setup_admin.php:2616 wps_setup_admin.php:2643
+msgid "Options"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:665
+msgid "Text shown if no user found"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:666 usermeta/wps_usermeta_shortcodes.php:732
+#: usermeta/wps_usermeta_shortcodes.php:864 wps_setup_admin.php:2646
+msgid "User does not exist!"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:672 wps_setup_admin.php:2650
+msgid "Message to show if the user is not found."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:696
+msgid "Hides content if users are not friends."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:697
+msgid ""
+"Add [wps-is-friend-content]CONTENT[/wps-is-friend-content] to a WordPress "
+"Page, Post or Text widget. CONTENT will only be shown if users are friends."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:701
+msgid "Text shown if are not friends"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:702
+msgid "Sorry, you are not friends!"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:705
+msgid "Message shown if not friends."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:707
+msgid "Show friendship action buttons"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:711
+msgid "Whether to show friendship action buttons (to make friends, etc)."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:713
+msgid "Make friends label"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:717
+msgid "Text for the make friends label."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:719 wps_setup_admin.php:2221
+msgid "Cancel friendship request label"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:720 usermeta/wps_usermeta_shortcodes.php:783
+msgid "Cancel Request"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:723
+msgid "Text to cancel the friendship request, to basically ignore it."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:725
+msgid "Request made text"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:726 usermeta/wps_usermeta_shortcodes.php:787
+msgid "You have received a friend request from this user."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:729
+msgid "Text to shown when a friendship request is made."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:731
+msgid "Accept request label"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:732 usermeta/wps_usermeta_shortcodes.php:784
+msgid "Accept Friendship"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:735
+msgid "Label to accept a friendship request."
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:737
+msgid "Reject request label"
+msgstr ""
+
+#: usermeta/wps_usermeta_help.php:741
+msgid "Label to reject a friendship request."
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:120 wps_setup_admin.php:2454
+msgid "Go"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:131
+msgid "Please set URL option in the shortcode."
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:268 wps_setup_admin.php:2511
+msgid "Display Name"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:269 wps_setup_admin.php:2519
+msgid "Your first name and family name"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:270
+msgid "Select your language"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:271 wps_setup_admin.php:2523
+msgid "Change your password"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:272 wps_setup_admin.php:2527
+msgid "Re-type your password"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:273 wps_setup_admin.php:2531
+msgid "Password changed, please log in again."
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:274 wps_setup_admin.php:2535
+msgid "Email address"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:278 wps_setup_admin.php:2547
+msgid "Please check for required fields"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:292
+msgid ""
+"Add login_url=\"/example\" to the [wps-usermeta-change] shortcode to let "
+"users login and redirect back here when not logged in."
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:309
+msgid "Security field did not validate"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:381
+msgid "Page will be refreshed for your chosen language."
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:667 wps_setup_admin.php:2595
+msgid "Are you sure? You cannot re-open a closed account."
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:668 wps_setup_admin.php:2599
+msgid "Your account has been closed."
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:698 wps_setup_admin.php:2623
+msgid "Join this site"
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:780
+msgid "Sorry, you are not friends."
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:1023
+msgid "Not active recently."
+msgstr ""
+
+#: usermeta/wps_usermeta_shortcodes.php:1077 wps_setup_admin.php:632
+#: wps_setup_admin.php:659
+msgid "Not logged in recently."
+msgstr ""
+
+#: wp_symposium_pro.php:410
+msgid "WP Symposium Pro alerts schedule"
+msgstr ""
+
+#: wps_admin.php:62
+msgid "Release Notes"
+msgstr ""
+
+#: wps_admin.php:62
+msgid "Release notes"
+msgstr ""
+
+#: wps_admin.php:63
+msgid "Setup"
+msgstr ""
+
+#: wps_admin.php:64
+msgid "Shortcodes"
+msgstr ""
+
+#: wps_admin.php:65
+msgid "Styles (BETA)"
+msgstr ""
+
+#: wps_admin.php:66 wps_admin.php:222 wps_admin.php:856
+msgid "Custom CSS"
+msgstr ""
+
+#: wps_admin.php:67
+msgid "Licence"
+msgstr ""
+
+#: wps_admin.php:68
+msgid "Clear all WPS data"
+msgstr ""
+
+#: wps_admin.php:69
+msgid "Translations"
+msgstr ""
+
+#: wps_admin.php:71
+msgid "Alerts (per user)"
+msgstr ""
+
+#: wps_admin.php:83
+#, php-format
+msgid ""
+"Your WP Symposium Pro Extensions plugin version (%s) does not match the core "
+"plugin version (%s), please ensure they are both the same! Update on the <a "
+"href=\"%s\">Plugins page</a>."
+msgstr ""
+
+#: wps_admin.php:147
+msgid "WP Symposium Pro update successful."
+msgstr ""
+
+#: wps_admin.php:218
+msgid "Configure"
+msgstr ""
+
+#: wps_admin.php:220
+msgid "Setup Profile Extensions"
+msgstr ""
+
+#: wps_admin.php:221
+msgid "Setup Rewards"
+msgstr ""
+
+#: wps_admin.php:223 wps_admin.php:747
+msgid "Clear all WPS Pro data"
+msgstr ""
+
+#: wps_admin.php:229 wps_setup_admin.php:580 wps_setup_admin.php:620
+#: wps_setup_admin.php:647 wps_setup_admin.php:869 wps_setup_admin.php:2241
+msgid "User"
+msgstr ""
+
+#: wps_admin.php:231
+msgid "Manage Activity Posts"
+msgstr ""
+
+#: wps_admin.php:233
+msgid "Manage Friendships"
+msgstr ""
+
+#: wps_admin.php:234
+msgid "Manage Favourites"
+msgstr ""
+
+#: wps_admin.php:236
+msgid "Manage Rewards Given"
+msgstr ""
+
+#: wps_admin.php:237
+msgid "Manage \"Who To\" lists"
+msgstr ""
+
+#: wps_admin.php:238
+msgid "Manage Reviews"
+msgstr ""
+
+#: wps_admin.php:247
+msgid "Manage All Forums"
+msgstr ""
+
+#: wps_admin.php:248
+msgid "Manage Forum Posts"
+msgstr ""
+
+#: wps_admin.php:249
+msgid "Forum Extensions"
+msgstr ""
+
+#: wps_admin.php:250
+msgid "Forum Reply Extensions"
+msgstr ""
+
+#: wps_admin.php:251
+msgid "Forum Subscriptions"
+msgstr ""
+
+#: wps_admin.php:252
+msgid "Topic Subscriptions"
+msgstr ""
+
+#: wps_admin.php:261
+msgid "Manage Alerts"
+msgstr ""
+
+#: wps_admin.php:262
+msgid "Manage User Alerts"
+msgstr ""
+
+#: wps_admin.php:264
+#, php-format
+msgid "Clear out your <a href=\"%s\">sent and pending alerts</a> regularly."
+msgstr ""
+
+#: wps_admin.php:265
+#, php-format
+msgid ""
+"<a href=\"%s\">Click here</a> to clean up forum subscriptions for non-"
+"existent users."
+msgstr ""
+
+#: wps_admin.php:271 wps_setup_admin.php:3180
+msgid "Groups"
+msgstr ""
+
+#: wps_admin.php:273
+msgid "Manage Groups"
+msgstr ""
+
+#: wps_admin.php:274
+msgid "Group Members"
+msgstr ""
+
+#: wps_admin.php:281
+msgid "Galleries"
+msgstr ""
+
+#: wps_admin.php:283
+msgid "Manage Galleries"
+msgstr ""
+
+#: wps_admin.php:290 wps_setup_admin.php:3189
+msgid "Private Messages"
+msgstr ""
+
+#: wps_admin.php:292
+msgid "Manage Messages"
+msgstr ""
+
+#: wps_admin.php:299
+msgid "Lounge"
+msgstr ""
+
+#: wps_admin.php:301
+msgid "Manage Lounge Chat"
+msgstr ""
+
+#: wps_admin.php:303
+#, php-format
+msgid ""
+"Please note that the Lounge is an unsupported feature, we recommend <a href="
+"\"%s\" target=\"_new\">Simple Ajax Chat</a>."
+msgstr ""
+
+#: wps_admin.php:309
+msgid "Calendars"
+msgstr ""
+
+#: wps_admin.php:311
+msgid "Manage Calendars"
+msgstr ""
+
+#: wps_admin.php:312
+msgid "Manage Calendar Events"
+msgstr ""
+
+#: wps_admin.php:352 wps_admin.php:438 wps_admin.php:683 wps_admin.php:767
+#: wps_setup_admin.php:30 wps_setup_admin.php:3225 wps_setup_admin.php:3244
+#: wps_setup_admin.php:3273
+msgid "help"
+msgstr ""
+
+#: wps_admin.php:353 wps_admin.php:439 wps_admin.php:684 wps_admin.php:768
+#: wps_setup_admin.php:31 wps_setup_admin.php:3274
+msgid "Welcome to WP Symposium Pro"
+msgstr ""
+
+#: wps_admin.php:354 wps_admin.php:440 wps_admin.php:685 wps_admin.php:769
+#: wps_setup_admin.php:32 wps_setup_admin.php:3275
+msgid "The ultimate social network plugin for WordPress"
+msgstr ""
+
+#: wps_admin.php:356
+msgid "Thank you for installing WP Symposium Pro!"
+msgstr ""
+
+#: wps_admin.php:359
+#, php-format
+msgid ""
+"Please don't forget to like our <a href=\"%s\" target=\"_blank\">Facebook "
+"page</a>, or follow @wpsymposium on <a href=\"%s\" target=\"_blank"
+"\">Twitter</a>, to get all the latest news and release announcements."
+msgstr ""
+
+#: wps_admin.php:362
+#, php-format
+msgid ""
+"If you are new to WP Symposium Pro, you will want to visit the <a href=\"%s"
+"\">Setup page</a>..."
+msgstr ""
+
+#: wps_admin.php:365
+#, php-format
+msgid ""
+"If you want to have a look at the current development version, you can <a "
+"href=\"%s\" target=\"_blank\">download the latest development build</a>, and "
+"follow news on it on the <a href=\"%s\" target=\"_blank\">Development blog</"
+"a>."
+msgstr ""
+
+#: wps_admin.php:368
+msgid ""
+"If you use a cache or a CDN (maybe like CloudFlare), we recommend clearing/"
+"purging all your files after upgrading any plugins."
+msgstr ""
+
+#: wps_admin.php:374
+#, php-format
+msgid "Release notes for current build (%s)"
+msgstr ""
+
+#: wps_admin.php:431
+msgid "All features de-activated"
+msgstr ""
+
+#: wps_admin.php:443
+msgid "How to get started..."
+msgstr ""
+
+#: wps_admin.php:444
+msgid "Use the Quick Start buttons below,"
+msgstr ""
+
+#: wps_admin.php:445
+#, php-format
+msgid "add your new pages to your <a href=\"%s\">WordPress menu</a>,  then"
+msgstr ""
+
+#: wps_admin.php:446
+#, php-format
+msgid "customize via <a href=\"%s\">Shortcodes</a> (via the menu)."
+msgstr ""
+
+#: wps_admin.php:447
+msgid "How to get support..."
+msgstr ""
+
+#: wps_admin.php:448
+#, php-format
+msgid ""
+"Support is available at <a target=\"_blank\" href=\"%s\">www.wpsymposiumpro."
+"com</a>"
+msgstr ""
+
+#: wps_admin.php:449
+#, php-format
+msgid ""
+"with <a href=\"%s\" target=\"_blank\">forums</a>, <a href=\"%s\" target="
+"\"_blank\">helpdesk</a>, and live chat support."
+msgstr ""
+
+#: wps_admin.php:450
+#, php-format
+msgid ""
+"We also have an <a target=\"_blank\" href=\"%s\">online admin guide</a> and "
+"<a target=\"_blank\" href=\"%s\">video tutorials</a>..."
+msgstr ""
+
+#: wps_admin.php:453
+msgid "Setting up WP Symposium Pro"
+msgstr ""
+
+#: wps_admin.php:459
+msgid "Installing and Activating more Extensions"
+msgstr ""
+
+#: wps_admin.php:475
+msgid "Show/Hide Welcome"
+msgstr ""
+
+#: wps_admin.php:479
+msgid "You need to set the Profile pages, under \"Profile Page\" below..."
+msgstr ""
+
+#: wps_admin.php:483
+msgid "Quick Start"
+msgstr ""
+
+#: wps_admin.php:491
+msgid "Move admin links here"
+msgstr ""
+
+#: wps_admin.php:493
+msgid "Move admin links to dashboard menu"
+msgstr ""
+
+#: wps_admin.php:493
+msgid "click on individual icons to move one at a time"
+msgstr ""
+
+#: wps_admin.php:498
+msgid "Click on a section title below to see options and help to get started."
+msgstr ""
+
+#: wps_admin.php:500
+#, php-format
+msgid ""
+"Loads more features are available from <a href=\"%s\">www.wpsymposiumpro."
+"com</a>."
+msgstr ""
+
+#: wps_admin.php:515
+msgid "Save Changes"
+msgstr ""
+
+#: wps_admin.php:584
+msgid "Translations (requires WordPress version 4.0 or higher)"
+msgstr ""
+
+#: wps_admin.php:607
+msgid "Shortcode options"
+msgstr ""
+
+#: wps_admin.php:608
+#, php-format
+msgid ""
+"You can change text and labels used by shortcodes on the <a href=\"%s"
+"\">Shortcodes</a> admin page"
+msgstr ""
+
+#: wps_admin.php:610
+msgid "Default language (locale) as defined in Settings->General"
+msgstr ""
+
+#: wps_admin.php:611
+msgid "This is your default site language:"
+msgstr ""
+
+#: wps_admin.php:613
+msgid "Default .mo file based on default locale"
+msgstr ""
+
+#: wps_admin.php:614
+#, php-format
+msgid ""
+"If you want to change the translations for WP Symposium Pro for your "
+"site&apos;s default language/locale, <a href=\"%s\" target=\"_blank\">get "
+"the base .pot file</a>, and then the .mo file that you should create (with "
+"an application like <a href=\"%s\" target=\"_blank\">PoEdit</a>) is:"
+msgstr ""
+
+#: wps_admin.php:617
+msgid "Adding languages that user&apos;s can select themselves"
+msgstr ""
+
+#: wps_admin.php:618
+#, php-format
+msgid ""
+"You need to generate a .mo file with PoEdit, based on downloaded .po files "
+"from <a href=\"%s\" target=\"_blank\">CrowdIn.Net</a> you offer to your "
+"users (or create one as above with an application like PoEdit), for example, "
+"wp-symposium-pro-fr_FR.mo would be the .mo file for French. You place the ."
+"mo files in the \"Translations folder\" as shown in the next section below "
+"on this page. Read more about it on the <a href=\"%s\" target=\"_blank\">WP "
+"Symposium Pro Codex</a>."
+msgstr ""
+
+#: wps_admin.php:620
+msgid ""
+"To give users the ability to choice from the alternative languages, enter "
+"additional languages and locales below, see the example further down the "
+"page."
+msgstr ""
+
+#: wps_admin.php:621
+msgid ""
+"For your site&apos;s default language, put it at the top, and do not enter a "
+"comma and locale (look at the example for an English site)."
+msgstr ""
+
+#: wps_admin.php:627 wps_admin.php:667
+msgid "Save"
+msgstr ""
+
+#: wps_admin.php:629
+msgid ""
+"Once saved, user&apos;s can select from the languages that you have set "
+"above on their Edit Profile page."
+msgstr ""
+
+#: wps_admin.php:630
+#, php-format
+msgid ""
+"Note that if you are using <strong>TABS</strong> for your Edit Profile page "
+"on the website, you can select which tab the languages choice appears in, in "
+"the Edit Profile section of the <a href=\"%s\">Setup</a> page."
+msgstr ""
+
+#: wps_admin.php:632
+msgid ""
+"As an example, if your site language was English, and you have a .mo file "
+"for French (wp-symposium-pro-fr_FR.mo), German (wp-symposium-pro-de_DE.mo), "
+"Russian (wp-symposium-pro-ru_RU.mo) and Spanish (wp-symposium-pro-es_ES.mo), "
+"you could enter the following in the text area above:"
+msgstr ""
+
+#: wps_admin.php:639
+msgid "Translations folder"
+msgstr ""
+
+#: wps_admin.php:640
+msgid ""
+"This is the folder in which you put your translation files (.mo files) if "
+"you want to provide alternative languages to your users."
+msgstr ""
+
+#: wps_admin.php:656
+msgid "Language files found:"
+msgstr ""
+
+#: wps_admin.php:659
+msgid "There are currently no valid language files in the directory."
+msgstr ""
+
+#: wps_admin.php:662
+msgid "Changing language of entire site"
+msgstr ""
+
+#: wps_admin.php:663
+#, php-format
+msgid ""
+"If you have the corresponding site language for WordPress installed (see <a "
+"target=\"_blank\" href=\"%s\">here</a>), it can optionally be used for the "
+"user when they select a language too!"
+msgstr ""
+
+#: wps_admin.php:666
+msgid ""
+"Tick to confirm automatic language/locale switch for WordPress installation."
+msgstr ""
+
+#: wps_admin.php:688
+msgid "WP Symposium Pro data removal (reset)"
+msgstr ""
+
+#: wps_admin.php:690
+msgid ""
+"Use this screen to reset WP Symposium Pro, or remove all data before you "
+"uninstall the plugin."
+msgstr ""
+
+#: wps_admin.php:705
+#, php-format
+msgid "Switching to blog ID %d"
+msgstr ""
+
+#: wps_admin.php:708 wps_admin.php:723
+msgid "Removing local files"
+msgstr ""
+
+#: wps_admin.php:710 wps_admin.php:713 wps_admin.php:725 wps_admin.php:728
+#: wps_admin.php:894 wps_admin.php:899 wps_admin.php:903 wps_admin.php:908
+#: wps_admin.php:913 wps_admin.php:917
+msgid "ok"
+msgstr ""
+
+#: wps_admin.php:711 wps_admin.php:726
+msgid "Flushing WordPress"
+msgstr ""
+
+#: wps_admin.php:715 wps_admin.php:730
+msgid "Complete"
+msgstr ""
+
+#: wps_admin.php:716 wps_admin.php:731
+msgid "You will need to remove any pages that you created."
+msgstr ""
+
+#: wps_admin.php:735
+msgid "NONCE failed - suspicious activity, reset cancelled"
+msgstr ""
+
+#: wps_admin.php:740
+msgid ""
+"This cannot be un-done - please make sure you take a site database backup "
+"first (in case of problems or mistake)!"
+msgstr ""
+
+#: wps_admin.php:744
+msgid "Are you sure? Last chance!"
+msgstr ""
+
+#: wps_admin.php:752
+msgid "Only available to site administrators."
+msgstr ""
+
+#: wps_admin.php:772
+msgid "WP Symposium Pro Extensions Plugin Licence"
+msgstr ""
+
+#: wps_admin.php:774
+#, php-format
+msgid ""
+"The core WP Symposium Pro plugin is free, available from <a href=\"%s\" "
+"target=\"_blank\">wordpress.org</a>. No licence code is required for the "
+"core plugin."
+msgstr ""
+
+#: wps_admin.php:775
+#, php-format
+msgid ""
+"If you have the <a href=\"%s\" target=\"_blank\">WP Symposium Pro Extensions "
+"plugin</a> activated, you will need to enter a licence code as proof of "
+"purchase.<br />Until you do so, a polite notice will be displayed on your "
+"site to users (this is not shown if your site is running on a local "
+"development server or within the trial period)."
+msgstr ""
+
+#: wps_admin.php:776
+msgid ""
+"We are sorry that we have to do this, unfortunately there are some people "
+"who want to use the plugin for free when the vast majority are nice, and "
+"purchase the plugin."
+msgstr ""
+
+#: wps_admin.php:777
+#, php-format
+msgid ""
+"If you have purchased an <a href=\"%s\" target=\"_blank\">Enterprise "
+"licence</a> or <a href=\"%s\" target=\"_blank\">Lifetime licence</a>, we can "
+"provide you with a one-off licence code - please us via the live chat (or "
+"leave a message that way)."
+msgstr ""
+
+#: wps_admin.php:778
+msgid ""
+"If you are running a trial version of the Extensions Plugin, you have 24 "
+"hours to try the product for free. During this time a notice is displayed on "
+"your site, but to administrators only."
+msgstr ""
+
+#: wps_admin.php:809
+#, php-format
+msgid ""
+"<strong>You are running a demonstration copy of the Extensions plugin, it "
+"was installed on %s, and will expire at %s on %s.</strong>"
+msgstr ""
+
+#: wps_admin.php:811
+#, php-format
+msgid ""
+"<span style=\"color:red;font-weight:bold\">Your demonstration copy of the "
+"Extensions plugin has expired! It was installed on %s at %s, and expired at "
+"%s on %s.</span>"
+msgstr ""
+
+#: wps_admin.php:821 wps_admin.php:826
+msgid "Licence code"
+msgstr ""
+
+#: wps_admin.php:822
+msgid "Invalid!"
+msgstr ""
+
+#: wps_admin.php:829
+msgid "Clear"
+msgstr ""
+
+#: wps_admin.php:833
+msgid ""
+"The licence is only required if you have the WP Symposium Extensions plugin "
+"installed and activated."
+msgstr ""
+
+#: wps_admin.php:834
+#, php-format
+msgid ""
+"To see all the extra features provided by the Extensions Plugin, visit <a "
+"href=\"%s\" target=\"_blank\">www.wpsymposiumpro.com</a>"
+msgstr ""
+
+#: wps_admin.php:857
+msgid "To over-ride theme styles, you may need to add !important to styles."
+msgstr ""
+
+#: wps_admin.php:876
+msgid "Save Custom CSS"
+msgstr ""
+
+#: wps_admin.php:892
+msgid "Removing shortcode options"
+msgstr ""
+
+#: wps_admin.php:897
+msgid "Removing application options"
+msgstr ""
+
+#: wps_admin.php:901
+msgid "Removing user meta"
+msgstr ""
+
+#: wps_admin.php:906
+msgid "Removing core custom post types"
+msgstr ""
+
+#: wps_admin.php:911
+msgid "Removing additional custom post types"
+msgstr ""
+
+#: wps_admin.php:915
+msgid "Removing WordPress schedule"
+msgstr ""
+
+#: wps_core.php:434
+msgid "Closed due to inactivity."
+msgstr ""
+
+#: wps_core.php:856
+msgid "Dismiss Tip"
+msgstr ""
+
+#: wps_core.php:857
+msgid "Tip"
+msgstr ""
+
+#: wps_core.php:858
+#, php-format
+msgid ""
+"This tip is only visible to site administrators and if dismissed can be re-"
+"activated via WPS Pro->Setup-><a href=\"%s\">Core Options</a>."
+msgstr ""
+
+#: wps_core.php:1015
+msgid ""
+"This is a lifetime WP Symposium Pro Extensions plugin licence. You must not "
+"share this within anyone."
+msgstr ""
+
+#: wps_core.php:1036
+#, php-format
+msgid ""
+"Your current WP Symposium Pro Extensions plugin licence expires at %s on %s"
+msgstr ""
+
+#: wps_core.php:1036
+#, php-format
+msgid "%d days"
+msgstr ""
+
+#: wps_core.php:1036
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_new\">update your licence code</a> before it runs "
+"out."
+msgstr ""
+
+#: wps_core.php:1039
+msgid ""
+"<strong>Invalid WP Symposium Pro Extensions plugin licence</strong> - <a "
+"href=\"http://www.wpsymposiumpro.com/licence-code\" target=\"_new\">please "
+"get a valid licence code</a>"
+msgstr ""
+
+#: wps_core.php:1044
+msgid ""
+"<strong>No WP Symposium Pro Extensions plugin licence entered</strong> - <a "
+"href=\"http://www.wpsymposiumpro.com/licence-code\" target=\"_new\">click "
+"here to get your licence code</a>"
+msgstr ""
+
+#: wps_setup_admin.php:36
+msgid "WP Symposium Pro Shortcodes and Default Settings"
+msgstr ""
+
+#: wps_setup_admin.php:47
+#, php-format
+msgid ""
+"WP Symposium Pro shortcode options all reset! <a href=\"%s\">Continue...</a>"
+msgstr ""
+
+#: wps_setup_admin.php:51
+msgid ""
+"This section provides a quick and easy way to view and customise all WP "
+"Symposium Pro shortcodes, each of which can be added to any WordPress Page, "
+"Post or Text Widget."
+msgstr ""
+
+#: wps_setup_admin.php:52
+#, php-format
+msgid ""
+"If you are not sure which shortcode is being used on a WordPress page, <a "
+"href=\"%s\">edit the page</a> and look in the page content editor."
+msgstr ""
+
+#: wps_setup_admin.php:53
+msgid ""
+"In the left column, select a general area, then a shortcode that is shown. "
+"You can then see and set the default values and get further help for that "
+"shortcode. To reset a value, remove the value and Save, or <a onclick="
+"\"return confirm('"
+msgstr ""
+
+#: wps_setup_admin.php:54
+msgid ""
+"You can also add options to each shortcode when editing a Page/Post/Widget "
+"by using shortcode options."
+msgstr ""
+
+#: wps_setup_admin.php:62 wps_setup_admin.php:3319
+msgid "Please wait, loading values...."
+msgstr ""
+
+#: wps_setup_admin.php:71 wps_setup_admin.php:3115
+msgid "Avatar"
+msgstr ""
+
+#: wps_setup_admin.php:74
+msgid "Conditional"
+msgstr ""
+
+#: wps_setup_admin.php:90
+msgid "Save Shortcode Options"
+msgstr ""
+
+#: wps_setup_admin.php:166
+msgid ""
+"Outputs the user ID of the current user, or if on a profile page, that user "
+"ID."
+msgstr ""
+
+#: wps_setup_admin.php:167
+msgid "Add [wps-user-id] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:171 wps_setup_admin.php:2060
+msgid "No options"
+msgstr ""
+
+#: wps_setup_admin.php:178
+msgid ""
+"Only displays content when the browser (user) <strong>is</strong> logged in."
+msgstr ""
+
+#: wps_setup_admin.php:179
+msgid ""
+"Add [wps-is-logged-in]CONTENT[/wps-is-logged-in] to a WordPress Page, Post "
+"or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:190
+msgid ""
+"Only displays content when the browser (user) is <strong>not</strong> logged "
+"in."
+msgstr ""
+
+#: wps_setup_admin.php:191
+msgid ""
+"Add [wps-not-logged-in]CONTENT[/wps-not-logged-in] to a WordPress Page, Post "
+"or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:202
+msgid "Only displays content viewing a list of forum posts."
+msgstr ""
+
+#: wps_setup_admin.php:203
+msgid ""
+"Add [wps-is-forum-posts-list]CONTENT[/wps-is-forum-posts-list] to a "
+"WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:214
+msgid ""
+"Only displays content when viewing a single forum post with replies/comments."
+msgstr ""
+
+#: wps_setup_admin.php:215
+msgid ""
+"Add [wps_is_forum_single_post]CONTENT[/wps_is_forum_single_post] to a "
+"WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:228
+msgid "Displays activity feed of the user."
+msgstr ""
+
+#: wps_setup_admin.php:229
+msgid "Add [wps-activity] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:233
+msgid "Include user's own activity"
+msgstr ""
+
+#: wps_setup_admin.php:238
+msgid "Whether or not to include the user’s activity in the activity stream."
+msgstr ""
+
+#: wps_setup_admin.php:240
+msgid "Include user's friends activity"
+msgstr ""
+
+#: wps_setup_admin.php:245
+msgid ""
+"Whether or not to include activity from the user’s friends or not. Increases "
+"load on server if you do."
+msgstr ""
+
+#: wps_setup_admin.php:247
+msgid "How long since friend has been active for activity to be included"
+msgstr ""
+
+#: wps_setup_admin.php:249
+msgid "days"
+msgstr ""
+
+#: wps_setup_admin.php:252
+msgid "Exclude inactive friends since ‘x’ number of days."
+msgstr ""
+
+#: wps_setup_admin.php:254
+msgid "Number of activity items shown at a time"
+msgstr ""
+
+#: wps_setup_admin.php:259
+msgid ""
+"How many to show before loading more, keep lower to improve performance."
+msgstr ""
+
+#: wps_setup_admin.php:261
+msgid "Maximum activity posts retrieved for user"
+msgstr ""
+
+#: wps_setup_admin.php:266 wps_setup_admin.php:273
+msgid "Avoid adding to the load on your server by keeping this number smaller."
+msgstr ""
+
+#: wps_setup_admin.php:268
+msgid "Maximum activity posts retrieved from friends"
+msgstr ""
+
+#: wps_setup_admin.php:275 wps_setup_admin.php:2078 wps_setup_admin.php:2177
+msgid "Avatar size"
+msgstr ""
+
+#: wps_setup_admin.php:277 wps_setup_admin.php:467 wps_setup_admin.php:484
+#: wps_setup_admin.php:689 wps_setup_admin.php:696 wps_setup_admin.php:703
+#: wps_setup_admin.php:710 wps_setup_admin.php:717 wps_setup_admin.php:850
+#: wps_setup_admin.php:857 wps_setup_admin.php:1385 wps_setup_admin.php:1389
+#: wps_setup_admin.php:1824 wps_setup_admin.php:1941 wps_setup_admin.php:2080
+#: wps_setup_admin.php:2274 wps_setup_admin.php:2281 wps_setup_admin.php:2288
+#: wps_setup_admin.php:2295 wps_setup_admin.php:2302 wps_setup_admin.php:2401
+#: wps_setup_admin.php:2745 wps_setup_admin.php:2749 wps_setup_admin.php:2753
+#: wps_setup_admin.php:2757 wps_setup_admin.php:2761 wps_setup_admin.php:2765
+#: wps_setup_admin.php:2769 wps_setup_admin.php:2773 wps_setup_admin.php:2785
+#: wps_setup_admin.php:2793
+msgid "pixels"
+msgstr ""
+
+#: wps_setup_admin.php:280
+msgid "The size of the user’s avatar shown beside the activity post."
+msgstr ""
+
+#: wps_setup_admin.php:282
+msgid "Word limit for posts"
+msgstr ""
+
+#: wps_setup_admin.php:284
+msgid "words"
+msgstr ""
+
+#: wps_setup_admin.php:287
+msgid "The maximum number of words allowed in a single post."
+msgstr ""
+
+#: wps_setup_admin.php:289
+msgid "Text to show reset of truncated posts"
+msgstr ""
+
+#: wps_setup_admin.php:294
+msgid ""
+"When long posts are truncated, what word should be shown to click on to show "
+"the rest of the post."
+msgstr ""
+
+#: wps_setup_admin.php:296
+msgid "Hide activity until fully loaded"
+msgstr ""
+
+#: wps_setup_admin.php:301
+msgid ""
+"Set this to wait until all activity has loaded before showing it, can make "
+"the page load appearance more managed."
+msgstr ""
+
+#: wps_setup_admin.php:303
+msgid "Comment avatar size"
+msgstr ""
+
+#: wps_setup_admin.php:308
+msgid "Avatar size for comment."
+msgstr ""
+
+#: wps_setup_admin.php:310
+msgid "Number of comments shown"
+msgstr ""
+
+#: wps_setup_admin.php:315
+msgid "Number of comments shown, previous ones are hidden."
+msgstr ""
+
+#: wps_setup_admin.php:317
+msgid "Text for multiple previous comments"
+msgstr ""
+
+#: wps_setup_admin.php:322
+msgid "Text that is shown if there are 2+ previous comments."
+msgstr ""
+
+#: wps_setup_admin.php:324
+msgid "Text for one previous comment"
+msgstr ""
+
+#: wps_setup_admin.php:329
+msgid "Text that is shown if there is 1 previous comment."
+msgstr ""
+
+#: wps_setup_admin.php:331
+msgid "Label for Comment button"
+msgstr ""
+
+#: wps_setup_admin.php:336
+msgid "Erm… label for the comment button!"
+msgstr ""
+
+#: wps_setup_admin.php:338 wps_setup_admin.php:531 wps_setup_admin.php:1522
+#: wps_setup_admin.php:1664 wps_setup_admin.php:2185 wps_setup_admin.php:2225
+#: wps_setup_admin.php:2457 wps_setup_admin.php:2586 wps_setup_admin.php:2618
+msgid "Optional CSS class for button"
+msgstr ""
+
+#: wps_setup_admin.php:343
+msgid "Add a CSS class to the button."
+msgstr ""
+
+#: wps_setup_admin.php:345
+msgid "User names link to profile page"
+msgstr ""
+
+#: wps_setup_admin.php:350
+msgid "Whether or not user names link to their profile page."
+msgstr ""
+
+#: wps_setup_admin.php:352
+msgid "Activity is private message"
+msgstr ""
+
+#: wps_setup_admin.php:357
+msgid "Message shown if activity cannot be seen due to privacy settings."
+msgstr ""
+
+#: wps_setup_admin.php:359
+msgid "Post no longer exists message"
+msgstr ""
+
+#: wps_setup_admin.php:364
+msgid "Message shown if the message no longer exists, probably deleted."
+msgstr ""
+
+#: wps_setup_admin.php:366
+msgid "Delete option label"
+msgstr ""
+
+#: wps_setup_admin.php:371
+msgid "Word(s) for the delete option."
+msgstr ""
+
+#: wps_setup_admin.php:373
+msgid "Stick option label"
+msgstr ""
+
+#: wps_setup_admin.php:378
+msgid "Word(s) for the stick option."
+msgstr ""
+
+#: wps_setup_admin.php:380
+msgid "Unstick option label"
+msgstr ""
+
+#: wps_setup_admin.php:385
+msgid "Word(s) for the unstick option."
+msgstr ""
+
+#: wps_setup_admin.php:387
+msgid "Hide option label"
+msgstr ""
+
+#: wps_setup_admin.php:392
+msgid "Word(s) for the hide option."
+msgstr ""
+
+#: wps_setup_admin.php:394 wps_setup_admin.php:1437
+msgid "Include Report option"
+msgstr ""
+
+#: wps_setup_admin.php:399
+msgid "Whether or not the report option is shown."
+msgstr ""
+
+#: wps_setup_admin.php:401 wps_setup_admin.php:1441
+msgid "Report option label"
+msgstr ""
+
+#: wps_setup_admin.php:406
+msgid "The label for the report option if shown."
+msgstr ""
+
+#: wps_setup_admin.php:408 wps_setup_admin.php:1445
+msgid "Report email recipient"
+msgstr ""
+
+#: wps_setup_admin.php:413
+msgid "An email address where reports are sent."
+msgstr ""
+
+#: wps_setup_admin.php:416
+msgid "Honour friends sticky posts"
+msgstr ""
+
+#: wps_setup_admin.php:421
+msgid ""
+"If a friend’s post is sticky, should it also be sticky on the user’s profile "
+"activity."
+msgstr ""
+
+#: wps_setup_admin.php:423
+msgid "Allow comments"
+msgstr ""
+
+#: wps_setup_admin.php:428
+msgid "Should comments be allowed."
+msgstr ""
+
+#: wps_setup_admin.php:430 wps_setup_admin.php:771 wps_setup_admin.php:1338
+msgid "Date format"
+msgstr ""
+
+#: wps_setup_admin.php:435
+#, php-format
+msgid ""
+"Format of the date, %s is used to replace how long ago the post was made."
+msgstr ""
+
+#: wps_setup_admin.php:437 wps_setup_admin.php:2538
+msgid "Logged out message"
+msgstr ""
+
+#: wps_setup_admin.php:442
+msgid "Message shown if you need to be logged in to see the activity."
+msgstr ""
+
+#: wps_setup_admin.php:444 wps_setup_admin.php:1024 wps_setup_admin.php:1304
+#: wps_setup_admin.php:2129 wps_setup_admin.php:2554
+msgid "Optional URL to login"
+msgstr ""
+
+#: wps_setup_admin.php:449
+msgid "An optional link to login, combined with the above."
+msgstr ""
+
+#: wps_setup_admin.php:460
+msgid "Displays a default profile page with common elements all set up."
+msgstr ""
+
+#: wps_setup_admin.php:461
+msgid "Add [wps-activity-page] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:465
+msgid "Size of the user's avatar"
+msgstr ""
+
+#: wps_setup_admin.php:470
+msgid "How big the user's avatar is"
+msgstr ""
+
+#: wps_setup_admin.php:472
+msgid "Style of Google Map"
+msgstr ""
+
+#: wps_setup_admin.php:475 wps_setup_admin.php:2407
+msgid "Static"
+msgstr ""
+
+#: wps_setup_admin.php:476 wps_setup_admin.php:2406
+msgid "Dynamic"
+msgstr ""
+
+#: wps_setup_admin.php:480
+msgid "Static is an image, dynamic can be moved around and zoomed in and out."
+msgstr ""
+
+#: wps_setup_admin.php:482
+msgid "Size of Google Map"
+msgstr ""
+
+#: wps_setup_admin.php:487
+msgid "How big in pixels."
+msgstr ""
+
+#: wps_setup_admin.php:489
+msgid "Zoom level of Google Map"
+msgstr ""
+
+#: wps_setup_admin.php:494
+msgid "Based on the scale used by Google, the initial zoom level."
+msgstr ""
+
+#: wps_setup_admin.php:496
+msgid "Label for Town/City"
+msgstr ""
+
+#: wps_setup_admin.php:501
+msgid "Normally a city, but can be any level of detail."
+msgstr ""
+
+#: wps_setup_admin.php:503
+msgid "Label for Country"
+msgstr ""
+
+#: wps_setup_admin.php:508
+msgid ""
+"Related to town, normally country, but can be a different level of detail."
+msgstr ""
+
+#: wps_setup_admin.php:510
+msgid "Friend Requests Label"
+msgstr ""
+
+#: wps_setup_admin.php:515
+msgid "Label for friend requests."
+msgstr ""
+
+#: wps_setup_admin.php:526
+msgid "Displays a text area for adding an activity post."
+msgstr ""
+
+#: wps_setup_admin.php:527
+msgid "Add [wps-activity-post] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:536
+msgid "A class to be added to the button for styling."
+msgstr ""
+
+#: wps_setup_admin.php:538 wps_setup_admin.php:2453 wps_setup_admin.php:2590
+msgid "Label for button"
+msgstr ""
+
+#: wps_setup_admin.php:543
+msgid "The label on the button."
+msgstr ""
+
+#: wps_setup_admin.php:545
+msgid "Message that only friends can post"
+msgstr ""
+
+#: wps_setup_admin.php:550
+msgid "Message shown if not allowed to post to activity."
+msgstr ""
+
+#: wps_setup_admin.php:552
+msgid "Message that account is closed"
+msgstr ""
+
+#: wps_setup_admin.php:557
+msgid "Account is closed message."
+msgstr ""
+
+#: wps_setup_admin.php:559
+msgid "Icon in new activity post textarea"
+msgstr ""
+
+#: wps_setup_admin.php:564
+msgid "Should a little icon be shown inside the post textarea?"
+msgstr ""
+
+#: wps_setup_admin.php:575
+msgid "Displays a users display name."
+msgstr ""
+
+#: wps_setup_admin.php:576
+msgid "Add [wps-display-name] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:583 wps_setup_admin.php:623 wps_setup_admin.php:650
+#: wps_setup_admin.php:872 wps_setup_admin.php:2244
+msgid "Reflects page context"
+msgstr ""
+
+#: wps_setup_admin.php:584 wps_setup_admin.php:624 wps_setup_admin.php:651
+#: wps_setup_admin.php:873 wps_setup_admin.php:2245
+msgid "Current user"
+msgstr ""
+
+#: wps_setup_admin.php:585 wps_setup_admin.php:625 wps_setup_admin.php:652
+#: wps_setup_admin.php:874 wps_setup_admin.php:2246
+msgid "or set to a user ID in shortcode"
+msgstr ""
+
+#: wps_setup_admin.php:588
+msgid ""
+"Which user to display. Can also set to a user ID via the shortcode itself."
+msgstr ""
+
+#: wps_setup_admin.php:591
+msgid "Name links to profile page"
+msgstr ""
+
+#: wps_setup_admin.php:596
+msgid "Should the name link to the profile page?"
+msgstr ""
+
+#: wps_setup_admin.php:599
+msgid "Show first name/last name instead of display name"
+msgstr ""
+
+#: wps_setup_admin.php:604
+msgid ""
+"Show first name and last name, useful if sorting by last name. Consider if "
+"people are actually filling these in though on your site."
+msgstr ""
+
+#: wps_setup_admin.php:615
+msgid "Displays when a user last logged in."
+msgstr ""
+
+#: wps_setup_admin.php:616
+msgid "Add [wps-last-logged-in] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:627 wps_setup_admin.php:654
+msgid "Format for date"
+msgstr ""
+
+#: wps_setup_admin.php:631 wps_setup_admin.php:658
+msgid "No last login text"
+msgstr ""
+
+#: wps_setup_admin.php:642
+msgid "Displays when a user was last active."
+msgstr ""
+
+#: wps_setup_admin.php:643
+msgid "Add [wps-last-active] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:671
+msgid "Displays a drop-down list of alerts for the user."
+msgstr ""
+
+#: wps_setup_admin.php:672
+msgid "Add [wps-alerts-activity] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:676
+msgid "Style of List"
+msgstr ""
+
+#: wps_setup_admin.php:679
+msgid "Dropdown list"
+msgstr ""
+
+#: wps_setup_admin.php:680 wps_setup_admin.php:2109
+msgid "List"
+msgstr ""
+
+#: wps_setup_admin.php:681
+msgid "Icon"
+msgstr ""
+
+#: wps_setup_admin.php:685
+msgid "How the alerts are presented."
+msgstr ""
+
+#: wps_setup_admin.php:687 wps_setup_admin.php:2272
+msgid "Icon size"
+msgstr ""
+
+#: wps_setup_admin.php:692
+msgid "Size of the icon (if Icon chosen)."
+msgstr ""
+
+#: wps_setup_admin.php:694
+msgid "Icon unread number size"
+msgstr ""
+
+#: wps_setup_admin.php:699
+msgid "Size of the unread number (if Icon chosen)."
+msgstr ""
+
+#: wps_setup_admin.php:701
+msgid "Icon unread number top margin"
+msgstr ""
+
+#: wps_setup_admin.php:706
+msgid ""
+"Allows you to adjust the top margin of the unread number (if Icon chosen)."
+msgstr ""
+
+#: wps_setup_admin.php:708
+msgid "Icon unread number left margin"
+msgstr ""
+
+#: wps_setup_admin.php:713
+msgid ""
+"Allows you to adjust the left margin of the unread number (if Icon chosen)."
+msgstr ""
+
+#: wps_setup_admin.php:715
+msgid "Icon unread number radius"
+msgstr ""
+
+#: wps_setup_admin.php:720
+msgid "Radius of the corners for unread messages, set to 0 for a square."
+msgstr ""
+
+#: wps_setup_admin.php:722 wps_setup_admin.php:2307
+msgid "Icon URL"
+msgstr ""
+
+#: wps_setup_admin.php:727
+msgid "URL that the user is take to when the icon is clicked."
+msgstr ""
+
+#: wps_setup_admin.php:729 wps_setup_admin.php:2314
+msgid "Icon image alernative URL"
+msgstr ""
+
+#: wps_setup_admin.php:734
+msgid "URL of an image to use as the icon instead of the default one.."
+msgstr ""
+
+#: wps_setup_admin.php:736
+msgid "Recent alerts text"
+msgstr ""
+
+#: wps_setup_admin.php:741
+msgid "Text to denote recent alerts."
+msgstr ""
+
+#: wps_setup_admin.php:743
+msgid "No alerts text"
+msgstr ""
+
+#: wps_setup_admin.php:748
+msgid "Text for no activity alerts."
+msgstr ""
+
+#: wps_setup_admin.php:750
+msgid "Text for new alerts, seperated by commas"
+msgstr ""
+
+#: wps_setup_admin.php:755
+msgid ""
+"The three version of text to use, seperated by a comma, for 1, 2+ and no new "
+"alerts."
+msgstr ""
+
+#: wps_setup_admin.php:757
+msgid "Mark all as read text"
+msgstr ""
+
+#: wps_setup_admin.php:762
+msgid "Text to mark all alerts as read."
+msgstr ""
+
+#: wps_setup_admin.php:764
+msgid "Delete all text"
+msgstr ""
+
+#: wps_setup_admin.php:769
+msgid "Text to delete all alerts."
+msgstr ""
+
+#: wps_setup_admin.php:776
+#, php-format
+msgid "Text for how long ago, the %s is replaced by how many days (etc)."
+msgstr ""
+
+#: wps_setup_admin.php:778
+msgid "Delete on click"
+msgstr ""
+
+#: wps_setup_admin.php:783
+msgid "Tick this to delete the alert automatically when it is clicked on."
+msgstr ""
+
+#: wps_setup_admin.php:794
+msgid "Displays a user's avatar."
+msgstr ""
+
+#: wps_setup_admin.php:795
+msgid "Add [wps-avatar] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:799
+msgid "Size of the avatar"
+msgstr ""
+
+#: wps_setup_admin.php:801
+msgid "pixels or a %"
+msgstr ""
+
+#: wps_setup_admin.php:804
+msgid "Size of the avatar displayed, in pixels."
+msgstr ""
+
+#: wps_setup_admin.php:806
+msgid "Show link to change avatar"
+msgstr ""
+
+#: wps_setup_admin.php:810 wps_setup_admin.php:1043
+msgid "Style of avatar change"
+msgstr ""
+
+#: wps_setup_admin.php:813 wps_setup_admin.php:1046
+msgid "Go to change avatar page"
+msgstr ""
+
+#: wps_setup_admin.php:814 wps_setup_admin.php:1047
+msgid "Use a popup"
+msgstr ""
+
+#: wps_setup_admin.php:818 wps_setup_admin.php:1051
+msgid ""
+"If set to page, will be a link to a page with [wps-avatar-change] on it. If "
+"popup, a box appears on the same screen."
+msgstr ""
+
+#: wps_setup_admin.php:820
+msgid "Text for change link"
+msgstr ""
+
+#: wps_setup_admin.php:825
+msgid "Text that is shown to prompt the user to change their avatar."
+msgstr ""
+
+#: wps_setup_admin.php:827 wps_setup_admin.php:1060
+msgid "Title for change link/box"
+msgstr ""
+
+#: wps_setup_admin.php:832 wps_setup_admin.php:1065
+msgid ""
+"Title for the change link, particularly relevant if using the popup style."
+msgstr ""
+
+#: wps_setup_admin.php:834
+msgid "Prompt to select image from computer"
+msgstr ""
+
+#: wps_setup_admin.php:839
+msgid "Prompt to select an image from computer if using popup style."
+msgstr ""
+
+#: wps_setup_admin.php:841
+msgid "Upload button (for popup style only)"
+msgstr ""
+
+#: wps_setup_admin.php:846
+msgid "Label for upload button for popup style."
+msgstr ""
+
+#: wps_setup_admin.php:848
+msgid "Width of popup (for popup style only)"
+msgstr ""
+
+#: wps_setup_admin.php:853
+msgid "Width of the popup if being used (in pixels)."
+msgstr ""
+
+#: wps_setup_admin.php:855
+msgid "Height of popup (for popup style only)"
+msgstr ""
+
+#: wps_setup_admin.php:860
+msgid "Height of the popup if being used (in pixels)."
+msgstr ""
+
+#: wps_setup_admin.php:862
+msgid "Avatar links to profile page (if not current user's avatar)"
+msgstr ""
+
+#: wps_setup_admin.php:867
+msgid "Should the avatar image link to that user's profile page?"
+msgstr ""
+
+#: wps_setup_admin.php:877
+msgid ""
+"Whether to reflect the page context (like on a profile page), or set to the "
+"current logged in user. Can also set to a specific WordPress user ID."
+msgstr ""
+
+#: wps_setup_admin.php:886
+msgid "Displays the form to let users upload an avatar."
+msgstr ""
+
+#: wps_setup_admin.php:887
+msgid "Add [wps-avatar-change] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:891
+msgid "Prompt for step 1"
+msgstr ""
+
+#: wps_setup_admin.php:896
+msgid "Text to show for the first step in uploading a new avatar."
+msgstr ""
+
+#: wps_setup_admin.php:898
+msgid "Prompt for step 2"
+msgstr ""
+
+#: wps_setup_admin.php:903
+msgid "Text for the second step."
+msgstr ""
+
+#: wps_setup_admin.php:905
+msgid "Label for Upload button"
+msgstr ""
+
+#: wps_setup_admin.php:910
+msgid "Label for the button to upload an image."
+msgstr ""
+
+#: wps_setup_admin.php:912
+msgid "Text for link to choose an image"
+msgstr ""
+
+#: wps_setup_admin.php:917
+msgid "Text for the link to choose an image (make this clear what to do!)."
+msgstr ""
+
+#: wps_setup_admin.php:919
+msgid "Try again message"
+msgstr ""
+
+#: wps_setup_admin.php:924
+msgid "Text try again."
+msgstr ""
+
+#: wps_setup_admin.php:926
+msgid "Allowed file types"
+msgstr ""
+
+#: wps_setup_admin.php:931
+msgid "The text shown explaining which file types are allowed to be uploaded."
+msgstr ""
+
+#: wps_setup_admin.php:933
+msgid "Not allowed to change avatar message"
+msgstr ""
+
+#: wps_setup_admin.php:938
+msgid "Text shown if not allowed to change the avatar."
+msgstr ""
+
+#: wps_setup_admin.php:940
+msgid "File too big message"
+msgstr ""
+
+#: wps_setup_admin.php:945
+msgid "Message if the uploaded file is too big."
+msgstr ""
+
+#: wps_setup_admin.php:947
+msgid "Maximum file upload size (KB)"
+msgstr ""
+
+#: wps_setup_admin.php:952
+msgid "Maximum permitted file size to upload <strong>in KiloBytes</strong>."
+msgstr ""
+
+#: wps_setup_admin.php:954
+msgid "Allow users to crop avatars"
+msgstr ""
+
+#: wps_setup_admin.php:959
+msgid ""
+"Whether user's are allowed to crop uploaded images (select an area to use)."
+msgstr ""
+
+#: wps_setup_admin.php:961
+msgid "Activate special effects"
+msgstr ""
+
+#: wps_setup_admin.php:966
+msgid "Can user's apply special effects to uploaded images."
+msgstr ""
+
+#: wps_setup_admin.php:968
+msgid "Label for Flip"
+msgstr ""
+
+#: wps_setup_admin.php:973
+msgid "Vertical flip"
+msgstr ""
+
+#: wps_setup_admin.php:975
+msgid "Label for Rotate"
+msgstr ""
+
+#: wps_setup_admin.php:980
+msgid "Rotate 90 degrees to the right (can be done multiple times)."
+msgstr ""
+
+#: wps_setup_admin.php:982
+msgid "Label for Invert"
+msgstr ""
+
+#: wps_setup_admin.php:987
+msgid "Invert the colour pallete."
+msgstr ""
+
+#: wps_setup_admin.php:989
+msgid "Label for Sketch"
+msgstr ""
+
+#: wps_setup_admin.php:994
+msgid "Make the image look like a sketch."
+msgstr ""
+
+#: wps_setup_admin.php:996
+msgid "Label for Pixelate"
+msgstr ""
+
+#: wps_setup_admin.php:1001
+msgid "Enlarge pixels in the image to make it look more blocky..."
+msgstr ""
+
+#: wps_setup_admin.php:1003
+msgid "Label for Sepia"
+msgstr ""
+
+#: wps_setup_admin.php:1008
+msgid "Use subtle shades of cream and brown."
+msgstr ""
+
+#: wps_setup_admin.php:1010
+msgid "Label for Emboss"
+msgstr ""
+
+#: wps_setup_admin.php:1015
+msgid "Give a 3D look to the image."
+msgstr ""
+
+#: wps_setup_admin.php:1017 wps_setup_admin.php:1300
+msgid "Must be logged in message"
+msgstr ""
+
+#: wps_setup_admin.php:1022
+msgid "Text shown in not logged in."
+msgstr ""
+
+#: wps_setup_admin.php:1029
+msgid ""
+"An optional URL of a login page to take the visitor to that login page (and "
+"return afterwards)."
+msgstr ""
+
+#: wps_setup_admin.php:1038
+msgid "Displays a link to let a user change their avatar."
+msgstr ""
+
+#: wps_setup_admin.php:1039
+msgid "Add [wps-avatar-change-link] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:1053
+msgid "Text shown for the link"
+msgstr ""
+
+#: wps_setup_admin.php:1058
+msgid "Text to show for the user to change their avatar."
+msgstr ""
+
+#: wps_setup_admin.php:1076
+msgid "Displays topics (and replies if style is set to 'classic') of a forum."
+msgstr ""
+
+#: wps_setup_admin.php:1077
+#, php-format
+msgid ""
+"Add [wps-forum slug=\"xxx\"] to a WordPress Page where \"xxx\" is the <a "
+"href=\"%s\">slug of your forum</a>."
+msgstr ""
+
+#: wps_setup_admin.php:1081 wps_setup_admin.php:1606 wps_setup_admin.php:2333
+#: wps_setup_admin.php:2626
+msgid "Style"
+msgstr ""
+
+#: wps_setup_admin.php:1084 wps_setup_admin.php:1609
+msgid "Table"
+msgstr ""
+
+#: wps_setup_admin.php:1085 wps_setup_admin.php:1610
+msgid "Classic"
+msgstr ""
+
+#: wps_setup_admin.php:1088 wps_setup_admin.php:1629 wps_setup_admin.php:1776
+#: wps_setup_admin.php:1922 wps_setup_admin.php:2019
+msgid "Base date"
+msgstr ""
+
+#: wps_setup_admin.php:1091 wps_setup_admin.php:1098 wps_setup_admin.php:1632
+#: wps_setup_admin.php:1779 wps_setup_admin.php:1925 wps_setup_admin.php:2022
+msgid "GMT"
+msgstr ""
+
+#: wps_setup_admin.php:1092 wps_setup_admin.php:1099 wps_setup_admin.php:1633
+#: wps_setup_admin.php:1780 wps_setup_admin.php:1926 wps_setup_admin.php:2023
+msgid "Local"
+msgstr ""
+
+#: wps_setup_admin.php:1095
+msgid "Comment base date"
+msgstr ""
+
+#: wps_setup_admin.php:1103
+msgid "For table style..."
+msgstr ""
+
+#: wps_setup_admin.php:1105
+msgid "Show table header"
+msgstr ""
+
+#: wps_setup_admin.php:1109
+msgid "Show closed topics"
+msgstr ""
+
+#: wps_setup_admin.php:1113
+msgid "Show topic count"
+msgstr ""
+
+#: wps_setup_admin.php:1117
+msgid "Show freshness"
+msgstr ""
+
+#: wps_setup_admin.php:1121
+msgid "Show last activity"
+msgstr ""
+
+#: wps_setup_admin.php:1125
+msgid "Show comment count"
+msgstr ""
+
+#: wps_setup_admin.php:1129
+msgid "Show post author"
+msgstr ""
+
+#: wps_setup_admin.php:1133
+msgid "Text for post author"
+msgstr ""
+
+#: wps_setup_admin.php:1137 wps_setup_admin.php:1798
+msgid "Header title"
+msgstr ""
+
+#: wps_setup_admin.php:1141 wps_setup_admin.php:1802
+msgid "Replies title"
+msgstr ""
+
+#: wps_setup_admin.php:1145 wps_setup_admin.php:1806
+msgid "Last activity title"
+msgstr ""
+
+#: wps_setup_admin.php:1149
+msgid "Freshness title"
+msgstr ""
+
+#: wps_setup_admin.php:1154
+msgid "For classic style..."
+msgstr ""
+
+#: wps_setup_admin.php:1156
+msgid "Text for topic started"
+msgstr ""
+
+#: wps_setup_admin.php:1160
+msgid "Text for last reply"
+msgstr ""
+
+#: wps_setup_admin.php:1164
+msgid "Text for last comment"
+msgstr ""
+
+#: wps_setup_admin.php:1168
+msgid "Avatar size for topics"
+msgstr ""
+
+#: wps_setup_admin.php:1172
+msgid "Avatar size for replies"
+msgstr ""
+
+#: wps_setup_admin.php:1176
+msgid "Maximum size of topic preview"
+msgstr ""
+
+#: wps_setup_admin.php:1178 wps_setup_admin.php:1182 wps_setup_admin.php:1278
+#: wps_setup_admin.php:1812 wps_setup_admin.php:1957 wps_setup_admin.php:1961
+msgid "characters"
+msgstr ""
+
+#: wps_setup_admin.php:1180
+msgid "Maximum size of reply preview"
+msgstr ""
+
+#: wps_setup_admin.php:1184 wps_setup_admin.php:1188 wps_setup_admin.php:1196
+msgid "Label for view count"
+msgstr ""
+
+#: wps_setup_admin.php:1186 wps_setup_admin.php:1194
+msgid "singular"
+msgstr ""
+
+#: wps_setup_admin.php:1190 wps_setup_admin.php:1198
+msgid "plural"
+msgstr ""
+
+#: wps_setup_admin.php:1192
+msgid "Label for reply count"
+msgstr ""
+
+#: wps_setup_admin.php:1201
+msgid "For both styles..."
+msgstr ""
+
+#: wps_setup_admin.php:1203
+msgid "Clicking on topic"
+msgstr ""
+
+#: wps_setup_admin.php:1206
+msgid "Always go to start of replies"
+msgstr ""
+
+#: wps_setup_admin.php:1207
+msgid "Always go to end of replies"
+msgstr ""
+
+#: wps_setup_admin.php:1211
+msgid "Highlight \"new\" content"
+msgstr ""
+
+#: wps_setup_admin.php:1215
+msgid "How long content stays \"new\" for"
+msgstr ""
+
+#: wps_setup_admin.php:1220
+#, php-format
+msgid ""
+"See <a href=\"%s\" target=\"_blank\">WPS Pro Codex</a> for styling tips."
+msgstr ""
+
+#: wps_setup_admin.php:1222
+msgid "Mark read items as no longer new"
+msgstr ""
+
+#: wps_setup_admin.php:1226
+msgid "Word for new content"
+msgstr ""
+
+#: wps_setup_admin.php:1231 wps_setup_admin.php:1392
+msgid "Enable pagination"
+msgstr ""
+
+#: wps_setup_admin.php:1235
+msgid "Pagination above posts"
+msgstr ""
+
+#: wps_setup_admin.php:1239
+msgid "Pagination below posts"
+msgstr ""
+
+#: wps_setup_admin.php:1243 wps_setup_admin.php:1408
+msgid "Pagination page size"
+msgstr ""
+
+#: wps_setup_admin.php:1247 wps_setup_admin.php:1412
+msgid "Pagination first label"
+msgstr ""
+
+#: wps_setup_admin.php:1251 wps_setup_admin.php:1416
+msgid "Pagination previous label"
+msgstr ""
+
+#: wps_setup_admin.php:1255 wps_setup_admin.php:1420
+msgid "Pagination next label"
+msgstr ""
+
+#: wps_setup_admin.php:1259 wps_setup_admin.php:1424
+msgid "Pagination current page text"
+msgstr ""
+
+#: wps_setup_admin.php:1263
+msgid "Maximum number of pages"
+msgstr ""
+
+#: wps_setup_admin.php:1267
+msgid "Maximum number of posts (if no pagination)"
+msgstr ""
+
+#: wps_setup_admin.php:1272
+msgid "Show reply icon"
+msgstr ""
+
+#: wps_setup_admin.php:1276
+msgid "Maximum title length"
+msgstr ""
+
+#: wps_setup_admin.php:1280
+msgid "Reply status"
+msgstr ""
+
+#: wps_setup_admin.php:1283
+msgid "Open and closed"
+msgstr ""
+
+#: wps_setup_admin.php:1288
+msgid "Default state of closed switch"
+msgstr ""
+
+#: wps_setup_admin.php:1292
+msgid "On"
+msgstr ""
+
+#: wps_setup_admin.php:1293
+msgid "Off"
+msgstr ""
+
+#: wps_setup_admin.php:1296
+msgid "Closed switch prompt"
+msgstr ""
+
+#: wps_setup_admin.php:1307 wps_setup_admin.php:1311
+msgid "Don't have permission message"
+msgstr ""
+
+#: wps_setup_admin.php:1309
+msgid "for forum"
+msgstr ""
+
+#: wps_setup_admin.php:1313
+msgid "for topic"
+msgstr ""
+
+#: wps_setup_admin.php:1315
+msgid "Empty forum message"
+msgstr ""
+
+#: wps_setup_admin.php:1319
+msgid "Topic deleted message"
+msgstr ""
+
+#: wps_setup_admin.php:1323
+msgid "Word for pending topic"
+msgstr ""
+
+#: wps_setup_admin.php:1327
+msgid "Word for pending reply"
+msgstr ""
+
+#: wps_setup_admin.php:1331 wps_setup_admin.php:1874
+msgid "Closed prefix"
+msgstr ""
+
+#: wps_setup_admin.php:1335
+msgid "Topic moved message"
+msgstr ""
+
+#: wps_setup_admin.php:1343
+msgid "Enable timeout"
+msgstr ""
+
+#: wps_setup_admin.php:1347
+msgid "Timeout before can't edit"
+msgstr ""
+
+#: wps_setup_admin.php:1349
+msgid "seconds"
+msgstr ""
+
+#: wps_setup_admin.php:1351
+msgid "Number of topics to show"
+msgstr ""
+
+#: wps_setup_admin.php:1353
+msgid "0 = all"
+msgstr ""
+
+#: wps_setup_admin.php:1356
+msgid "For single topic view..."
+msgstr ""
+
+#: wps_setup_admin.php:1358
+msgid "No replies text"
+msgstr ""
+
+#: wps_setup_admin.php:1362
+msgid "One reply text"
+msgstr ""
+
+#: wps_setup_admin.php:1366
+msgid "Multiple replies text"
+msgstr ""
+
+#: wps_setup_admin.php:1370
+msgid "1 comment text"
+msgstr ""
+
+#: wps_setup_admin.php:1374
+msgid "Multiple comments text"
+msgstr ""
+
+#: wps_setup_admin.php:1379
+msgid "Additional forum admins"
+msgstr ""
+
+#: wps_setup_admin.php:1381
+msgid "user logins, seperated by commas"
+msgstr ""
+
+#: wps_setup_admin.php:1383
+msgid "Topic author avatar"
+msgstr ""
+
+#: wps_setup_admin.php:1387
+msgid "Reply author avatar"
+msgstr ""
+
+#: wps_setup_admin.php:1396
+msgid "Pagination above topic"
+msgstr ""
+
+#: wps_setup_admin.php:1400
+msgid "Pagination above replies"
+msgstr ""
+
+#: wps_setup_admin.php:1404
+msgid "Pagination below replies"
+msgstr ""
+
+#: wps_setup_admin.php:1429
+msgid "Replies order"
+msgstr ""
+
+#: wps_setup_admin.php:1432
+msgid "Oldest first"
+msgstr ""
+
+#: wps_setup_admin.php:1433
+msgid "Newest first"
+msgstr ""
+
+#: wps_setup_admin.php:1450
+msgid "Hide initial post on page 2+"
+msgstr ""
+
+#: wps_setup_admin.php:1454
+msgid "Enable comments"
+msgstr ""
+
+#: wps_setup_admin.php:1458
+msgid "Show comment as default"
+msgstr ""
+
+#: wps_setup_admin.php:1462
+msgid "Allow new comments"
+msgstr ""
+
+#: wps_setup_admin.php:1466
+msgid "Label for comment button"
+msgstr ""
+
+#: wps_setup_admin.php:1470
+msgid "Label for Update button"
+msgstr ""
+
+#: wps_setup_admin.php:1474
+msgid "Label for cancel button"
+msgstr ""
+
+#: wps_setup_admin.php:1478
+msgid "Label for moderate message"
+msgstr ""
+
+#: wps_setup_admin.php:1482
+msgid "Optional CSS class for comment button"
+msgstr ""
+
+#: wps_setup_admin.php:1486
+msgid "Text shown for private comments"
+msgstr ""
+
+#: wps_setup_admin.php:1497
+msgid ""
+"Displays a link back to the forum topics. Only shown when viewing a single "
+"topic."
+msgstr ""
+
+#: wps_setup_admin.php:1498
+#, php-format
+msgid ""
+"Add [wps-forum-backto slug=\"xxx\"] to the WordPress Page of your forum "
+"(click on the <strong>Page</strong> link <a href=\"%s\">here</a>) where \"xxx"
+"\" is the <a href=\"%s\">slug of your forum</a>."
+msgstr ""
+
+#: wps_setup_admin.php:1502 wps_setup_admin.php:2570
+msgid "Text for the link"
+msgstr ""
+
+#: wps_setup_admin.php:1513
+msgid ""
+"Displays a text area to add a reply to a forum topic. Only shown when "
+"viewing a single topic."
+msgstr ""
+
+#: wps_setup_admin.php:1514
+#, php-format
+msgid ""
+"Add [wps-forum-reply slug=\"xxx\"] to the WordPress Page of your forum "
+"(click on the <strong>Page</strong> link <a href=\"%s\">here</a>) where \"xxx"
+"\" is the <a href=\"%s\">slug of your forum</a>."
+msgstr ""
+
+#: wps_setup_admin.php:1518
+msgid "Label for add reply button"
+msgstr ""
+
+#: wps_setup_admin.php:1526
+msgid "Text above reply text area"
+msgstr ""
+
+#: wps_setup_admin.php:1530
+msgid "Don't have permission to view topic message"
+msgstr ""
+
+#: wps_setup_admin.php:1534
+msgid "Don't have permission to reply message"
+msgstr ""
+
+#: wps_setup_admin.php:1538
+msgid "Forum is locked message"
+msgstr ""
+
+#: wps_setup_admin.php:1542
+msgid "Enable reply moderation"
+msgstr ""
+
+#: wps_setup_admin.php:1546
+msgid "Moderation message"
+msgstr ""
+
+#: wps_setup_admin.php:1550
+msgid "Show reply textarea by default"
+msgstr ""
+
+#: wps_setup_admin.php:1554
+msgid "Allow users to close posts"
+msgstr ""
+
+#: wps_setup_admin.php:1558
+msgid "Label to close topic"
+msgstr ""
+
+#: wps_setup_admin.php:1562
+msgid "Message that topic is closed"
+msgstr ""
+
+#: wps_setup_admin.php:1566
+msgid "Label to re-open topic"
+msgstr ""
+
+#: wps_setup_admin.php:1570
+msgid "Only allow one reply per user"
+msgstr ""
+
+#: wps_setup_admin.php:1574
+msgid "Message that replied already"
+msgstr ""
+
+#: wps_setup_admin.php:1578
+msgid "Private replies"
+msgstr ""
+
+#: wps_setup_admin.php:1581 wps_setup_admin.php:1683
+msgid "Disabled"
+msgstr ""
+
+#: wps_setup_admin.php:1582
+msgid "Option available to user"
+msgstr ""
+
+#: wps_setup_admin.php:1583
+msgid "All replies private"
+msgstr ""
+
+#: wps_setup_admin.php:1586
+msgid "Private reply label"
+msgstr ""
+
+#: wps_setup_admin.php:1590
+msgid "Show in (which forum) label"
+msgstr ""
+
+#: wps_setup_admin.php:1601
+msgid "Displays a ready made page for a forum."
+msgstr ""
+
+#: wps_setup_admin.php:1602
+#, php-format
+msgid ""
+"Add [wps-forum-page slug=\"xxx\"] to a WordPress Page where \"xxx\" is the "
+"<a href=\"%s\">slug of your forum</a>."
+msgstr ""
+
+#: wps_setup_admin.php:1613 wps_setup_admin.php:1691
+msgid "Show new topic form"
+msgstr ""
+
+#: wps_setup_admin.php:1617
+msgid "Title header text"
+msgstr ""
+
+#: wps_setup_admin.php:1621
+msgid "Replies header text"
+msgstr ""
+
+#: wps_setup_admin.php:1625
+msgid "Last activity header text"
+msgstr ""
+
+#: wps_setup_admin.php:1643
+msgid "Displays a textarea for adding a forum topic."
+msgstr ""
+
+#: wps_setup_admin.php:1644
+#, php-format
+msgid ""
+"Add [wps-forum-post slug=\"xxx\"] to a WordPress Page where \"xxx\" is the "
+"<a href=\"%s\">slug of your forum</a> or slug=\"choose\" to allow users to "
+"select."
+msgstr ""
+
+#: wps_setup_admin.php:1648
+msgid "Post title text"
+msgstr ""
+
+#: wps_setup_admin.php:1652
+msgid "Topic content text"
+msgstr ""
+
+#: wps_setup_admin.php:1656
+msgid "Add topic button label"
+msgstr ""
+
+#: wps_setup_admin.php:1660
+msgid "Prompt to subscribe"
+msgstr ""
+
+#: wps_setup_admin.php:1661
+msgid "Receive email when new comments are added"
+msgstr ""
+
+#: wps_setup_admin.php:1668
+msgid "Enable moderation"
+msgstr ""
+
+#: wps_setup_admin.php:1672
+msgid "Awaiting moderation message"
+msgstr ""
+
+#: wps_setup_admin.php:1676
+msgid "Permission denied message"
+msgstr ""
+
+#: wps_setup_admin.php:1680
+msgid "Set post title as multiline"
+msgstr ""
+
+#: wps_setup_admin.php:1684
+msgid "1 line"
+msgstr ""
+
+#: wps_setup_admin.php:1685
+msgid "2 lines"
+msgstr ""
+
+#: wps_setup_admin.php:1686
+msgid "3 lines"
+msgstr ""
+
+#: wps_setup_admin.php:1687
+msgid "4 lines"
+msgstr ""
+
+#: wps_setup_admin.php:1688
+msgid "5 lines"
+msgstr ""
+
+#: wps_setup_admin.php:1695
+msgid "Allow forum choice"
+msgstr ""
+
+#: wps_setup_admin.php:1697
+msgid ""
+"Add slug=\"choose\" to the shortcode on your page. This value is not set "
+"here (just for information)."
+msgstr ""
+
+#: wps_setup_admin.php:1698
+msgid "Forum choice label"
+msgstr ""
+
+#: wps_setup_admin.php:1709
+msgid "Displays a top level of all forums."
+msgstr ""
+
+#: wps_setup_admin.php:1710
+msgid "Add [wps-forums] to a WordPress Page, Post or Text Widget."
+msgstr ""
+
+#: wps_setup_admin.php:1714
+msgid "Show as dropdown"
+msgstr ""
+
+#: wps_setup_admin.php:1718
+msgid "Quick jump text for dropdown"
+msgstr ""
+
+#: wps_setup_admin.php:1722
+msgid "Forum title header text"
+msgstr ""
+
+#: wps_setup_admin.php:1726
+msgid "Topic count header text"
+msgstr ""
+
+#: wps_setup_admin.php:1730
+msgid "Last Poster header text"
+msgstr ""
+
+#: wps_setup_admin.php:1734
+msgid "Freshness header text"
+msgstr ""
+
+#: wps_setup_admin.php:1738
+msgid "Base poster & freshness on latest reply?"
+msgstr ""
+
+#: wps_setup_admin.php:1743
+msgid "Show children forums"
+msgstr ""
+
+#: wps_setup_admin.php:1747
+msgid "Show header"
+msgstr ""
+
+#: wps_setup_admin.php:1751
+msgid "Show topic count header text"
+msgstr ""
+
+#: wps_setup_admin.php:1755
+msgid "Show last poster header text"
+msgstr ""
+
+#: wps_setup_admin.php:1759
+msgid "Show freshness header text"
+msgstr ""
+
+#: wps_setup_admin.php:1764
+msgid "Top level as links"
+msgstr ""
+
+#: wps_setup_admin.php:1768
+msgid "Privacy filter"
+msgstr ""
+
+#: wps_setup_admin.php:1772
+msgid "Private only"
+msgstr ""
+
+#: wps_setup_admin.php:1773
+msgid "Public only"
+msgstr ""
+
+#: wps_setup_admin.php:1784
+msgid "Most recent activity shown below each forum"
+msgstr ""
+
+#: wps_setup_admin.php:1786
+msgid "Number of topics to show (or 'none')"
+msgstr ""
+
+#: wps_setup_admin.php:1790
+msgid "Show topics header"
+msgstr ""
+
+#: wps_setup_admin.php:1794
+msgid "Show count totals above topics"
+msgstr ""
+
+#: wps_setup_admin.php:1810
+msgid "Limit on title length"
+msgstr ""
+
+#: wps_setup_admin.php:1814
+msgid "Include closed topics"
+msgstr ""
+
+#: wps_setup_admin.php:1818
+msgid "Do not indent"
+msgstr ""
+
+#: wps_setup_admin.php:1822
+#, php-format
+msgid "Forum image width (add via <a href='%s'>Forum Edit</a>)"
+msgstr ""
+
+#: wps_setup_admin.php:1833
+msgid "Flexible way to show forum posts."
+msgstr ""
+
+#: wps_setup_admin.php:1834
+#, php-format
+msgid ""
+"Add [wps-forum-show-posts slug=\"xxx\"] to the WordPress Page of your forum "
+"(click on the <strong>Page</strong> link <a href=\"%s\">here</a>) where \"xxx"
+"\" is the <a href=\"%s\">slug of your forum</a>."
+msgstr ""
+
+#: wps_setup_admin.php:1838
+msgid "Order value"
+msgstr ""
+
+#: wps_setup_admin.php:1842
+msgid "Content"
+msgstr ""
+
+#: wps_setup_admin.php:1843
+msgid "Date"
+msgstr ""
+
+#: wps_setup_admin.php:1844
+msgid "Title"
+msgstr ""
+
+#: wps_setup_admin.php:1850
+msgid "Ascending"
+msgstr ""
+
+#: wps_setup_admin.php:1851
+msgid "Descending"
+msgstr ""
+
+#: wps_setup_admin.php:1862
+msgid "Include topics"
+msgstr ""
+
+#: wps_setup_admin.php:1866
+msgid "Include replies"
+msgstr ""
+
+#: wps_setup_admin.php:1870
+msgid "Include comments"
+msgstr ""
+
+#: wps_setup_admin.php:1878
+msgid "Show author"
+msgstr ""
+
+#: wps_setup_admin.php:1882
+msgid "Format of author text (for above)"
+msgstr ""
+
+#: wps_setup_admin.php:1886
+msgid "Link author to profile page"
+msgstr ""
+
+#: wps_setup_admin.php:1890
+msgid "Show date"
+msgstr ""
+
+#: wps_setup_admin.php:1894
+msgid "Format of date text (for above)"
+msgstr ""
+
+#: wps_setup_admin.php:1898
+msgid "Show snippet"
+msgstr ""
+
+#: wps_setup_admin.php:1902
+msgid "Text for link to forum post"
+msgstr ""
+
+#: wps_setup_admin.php:1906
+msgid "Text shown if no posts"
+msgstr ""
+
+#: wps_setup_admin.php:1910
+msgid "Maximum length of title"
+msgstr ""
+
+#: wps_setup_admin.php:1914
+msgid "Maximum length of snippet"
+msgstr ""
+
+#: wps_setup_admin.php:1918
+msgid "Number of posts displayed"
+msgstr ""
+
+#: wps_setup_admin.php:1930
+msgid "Summary sentence and author avatar"
+msgstr ""
+
+#: wps_setup_admin.php:1931
+msgid "Show summary sentence and avatar"
+msgstr ""
+
+#: wps_setup_admin.php:1935
+msgid "Format"
+msgstr ""
+
+#: wps_setup_admin.php:1939
+msgid "Size of avatar"
+msgstr ""
+
+#: wps_setup_admin.php:1943
+msgid "Text for started"
+msgstr ""
+
+#: wps_setup_admin.php:1947
+msgid "Text for replied to"
+msgstr ""
+
+#: wps_setup_admin.php:1951
+msgid "Text for commented on"
+msgstr ""
+
+#: wps_setup_admin.php:1955
+msgid "Maximum length for title"
+msgstr ""
+
+#: wps_setup_admin.php:1959
+msgid "Maximum length for content snippet"
+msgstr ""
+
+#: wps_setup_admin.php:1963
+msgid "Show unread if applicable"
+msgstr ""
+
+#: wps_setup_admin.php:1974
+msgid "Displays child forums as setup in Edit Forum."
+msgstr ""
+
+#: wps_setup_admin.php:1975
+#, php-format
+msgid ""
+"Add [wps-forum-children slug=\"xxx\"] to the WordPress Page of your forum "
+"(click on the <strong>Page</strong> link <a href=\"%s\">here</a>) where \"xxx"
+"\" is the <a href=\"%s\">slug of the parent forum</a>."
+msgstr ""
+
+#: wps_setup_admin.php:1979
+msgid "Show Header"
+msgstr ""
+
+#: wps_setup_admin.php:1983
+msgid "Show Summary"
+msgstr ""
+
+#: wps_setup_admin.php:1987
+msgid "Show Posts/Replies Count"
+msgstr ""
+
+#: wps_setup_admin.php:1991
+msgid "Show Last Activity"
+msgstr ""
+
+#: wps_setup_admin.php:1995
+msgid "Show Freshness"
+msgstr ""
+
+#: wps_setup_admin.php:1999
+msgid "Forum name label"
+msgstr ""
+
+#: wps_setup_admin.php:2003
+msgid "Posts/Replies Count label"
+msgstr ""
+
+#: wps_setup_admin.php:2007 wps_setup_admin.php:2037
+msgid "Last Poster label"
+msgstr ""
+
+#: wps_setup_admin.php:2011 wps_setup_admin.php:2041
+msgid "Freshness label"
+msgstr ""
+
+#: wps_setup_admin.php:2015
+msgid "Link forum titles to forum"
+msgstr ""
+
+#: wps_setup_admin.php:2027
+msgid "Posts in child forum"
+msgstr ""
+
+#: wps_setup_admin.php:2028
+msgid ""
+"If activated, it is recommended to switch off the first 5 options above, and "
+"to style the \"wps_forum_children_description\" class for the forum names."
+msgstr ""
+
+#: wps_setup_admin.php:2029
+msgid "Show child forum posts"
+msgstr ""
+
+#: wps_setup_admin.php:2033
+msgid "Replies Count label"
+msgstr ""
+
+#: wps_setup_admin.php:2045
+msgid "Max number of posts"
+msgstr ""
+
+#: wps_setup_admin.php:2055
+#, php-format
+msgid ""
+"Inserts ShareThis code added to <em>any</em> forum <a href='%s'>here</a>."
+msgstr ""
+
+#: wps_setup_admin.php:2056
+#, php-format
+msgid ""
+"Add [wps-forum-sharethis slug=\"xxx\"] to a WordPress Page where \"xxx\" is "
+"the <a href=\"%s\">slug of your forum</a>."
+msgstr ""
+
+#: wps_setup_admin.php:2069
+msgid "Displays a user's friends."
+msgstr ""
+
+#: wps_setup_admin.php:2070
+msgid "Add [wps-friends] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:2074
+msgid "Number of friends to show"
+msgstr ""
+
+#: wps_setup_admin.php:2082
+msgid "Link display names to profile page"
+msgstr ""
+
+#: wps_setup_admin.php:2086
+msgid "Show when last active"
+msgstr ""
+
+#: wps_setup_admin.php:2090
+msgid "Text for when last active"
+msgstr ""
+
+#: wps_setup_admin.php:2094
+msgid "Format for when last active"
+msgstr ""
+
+#: wps_setup_admin.php:2098
+msgid "Text for private"
+msgstr ""
+
+#: wps_setup_admin.php:2102
+msgid "Text for no friends"
+msgstr ""
+
+#: wps_setup_admin.php:2106
+msgid "Layout"
+msgstr ""
+
+#: wps_setup_admin.php:2110
+msgid "Fluid"
+msgstr ""
+
+#: wps_setup_admin.php:2113
+msgid "Logged out text"
+msgstr ""
+
+#: wps_setup_admin.php:2117
+msgid "Remove all friends option"
+msgstr ""
+
+#: wps_setup_admin.php:2121
+msgid "Remove all friends text"
+msgstr ""
+
+#: wps_setup_admin.php:2125
+msgid "Remove all friends confirmation"
+msgstr ""
+
+#: wps_setup_admin.php:2140
+msgid "Displays the friendship status of a user with the current user."
+msgstr ""
+
+#: wps_setup_admin.php:2141
+msgid ""
+"Add [wps-friends-status] to the WordPress Page being used as the profile "
+"page."
+msgstr ""
+
+#: wps_setup_admin.php:2145
+msgid "You are friends text"
+msgstr ""
+
+#: wps_setup_admin.php:2149
+msgid "Friend request pending text"
+msgstr ""
+
+#: wps_setup_admin.php:2153
+msgid "You have a friend request text"
+msgstr ""
+
+#: wps_setup_admin.php:2157
+msgid "You are not friends text"
+msgstr ""
+
+#: wps_setup_admin.php:2168
+msgid "Displays pending friendship requests for the current user."
+msgstr ""
+
+#: wps_setup_admin.php:2169
+msgid ""
+"Add [wps-friends-pending] to the WordPress Page being used as the profile "
+"page."
+msgstr ""
+
+#: wps_setup_admin.php:2173
+msgid "Maximum number of requests to show"
+msgstr ""
+
+#: wps_setup_admin.php:2181
+msgid "Link avatar to profile page"
+msgstr ""
+
+#: wps_setup_admin.php:2189
+msgid "Label for accept button"
+msgstr ""
+
+#: wps_setup_admin.php:2193
+msgid "Label for reject button"
+msgstr ""
+
+#: wps_setup_admin.php:2197
+msgid "Text for no friendship requests"
+msgstr ""
+
+#: wps_setup_admin.php:2208
+msgid "Displays a button to make a request to another user as a friend."
+msgstr ""
+
+#: wps_setup_admin.php:2209
+msgid ""
+"Add [wps-friends-add-button] to the WordPress Page being used as the profile "
+"page."
+msgstr ""
+
+#: wps_setup_admin.php:2213
+msgid "Label for the button"
+msgstr ""
+
+#: wps_setup_admin.php:2217
+msgid "Cancel friendship label"
+msgstr ""
+
+#: wps_setup_admin.php:2236
+msgid "Displays the number of friends (accepted or pending) a user has."
+msgstr ""
+
+#: wps_setup_admin.php:2237
+msgid ""
+"Add [wps-friends-count] to the WordPress Page being used as the profile page."
+msgstr ""
+
+#: wps_setup_admin.php:2251
+msgid "Accepted"
+msgstr ""
+
+#: wps_setup_admin.php:2256
+msgid "Link (optional)"
+msgstr ""
+
+#: wps_setup_admin.php:2267
+msgid "Displays an icon for pending friendship requests."
+msgstr ""
+
+#: wps_setup_admin.php:2268
+msgid "Add [wps-alerts-friends] to a WordPress Page, Post of Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:2277
+msgid "Size of the icon in pixels."
+msgstr ""
+
+#: wps_setup_admin.php:2279
+msgid "Icon pending number size"
+msgstr ""
+
+#: wps_setup_admin.php:2284
+msgid "Size of the number of pending requests"
+msgstr ""
+
+#: wps_setup_admin.php:2286
+msgid "Icon pending number top margin"
+msgstr ""
+
+#: wps_setup_admin.php:2291
+msgid "Allows you to move the number vertically."
+msgstr ""
+
+#: wps_setup_admin.php:2293
+msgid "Icon pending number left margin"
+msgstr ""
+
+#: wps_setup_admin.php:2298
+msgid "Allows you to move the number horizontally."
+msgstr ""
+
+#: wps_setup_admin.php:2300
+msgid "Icon pending number radius"
+msgstr ""
+
+#: wps_setup_admin.php:2305
+msgid ""
+"Radius of the corners for the box behind the number, set to 0 for a square."
+msgstr ""
+
+#: wps_setup_admin.php:2312
+msgid ""
+"Where the user is taken (URL) when the icon is clicked on, nearly always "
+"where the [wps-friends] shortcode is placed."
+msgstr ""
+
+#: wps_setup_admin.php:2319
+msgid "URL of an image to use for the icon instead of the default image."
+msgstr ""
+
+#: wps_setup_admin.php:2328
+msgid ""
+"Displays button/link to add/remove user as a favourite. Also options for the "
+"Friends page (which shows favourite profiles at the top)."
+msgstr ""
+
+#: wps_setup_admin.php:2329
+msgid ""
+"Add [wps-favourite-friend] to the WordPress Page being used as the profile "
+"page."
+msgstr ""
+
+#: wps_setup_admin.php:2336 wps_setup_admin.php:2629
+msgid "Button"
+msgstr ""
+
+#: wps_setup_admin.php:2337
+msgid "Link"
+msgstr ""
+
+#: wps_setup_admin.php:2340
+msgid "Add label"
+msgstr ""
+
+#: wps_setup_admin.php:2344
+msgid "Remove label"
+msgstr ""
+
+#: wps_setup_admin.php:2348
+msgid "Added message"
+msgstr ""
+
+#: wps_setup_admin.php:2352
+msgid "Removed message"
+msgstr ""
+
+#: wps_setup_admin.php:2356
+msgid "Friends page rollover text"
+msgstr ""
+
+#: wps_setup_admin.php:2369
+msgid ""
+"Displays a profile value (meta) of a user, including standard WordPress meta "
+"values such as display_name."
+msgstr ""
+
+#: wps_setup_admin.php:2370
+msgid ""
+"Add [wps-usermeta] to a WordPress Page, Post of Text widget. Can be added "
+"more than once."
+msgstr ""
+
+#: wps_setup_admin.php:2371 wps_setup_admin.php:2470
+msgid "Tip:"
+msgstr ""
+
+#: wps_setup_admin.php:2371
+msgid ""
+"Choose options below (and save) to see how you can add [wps-usermeta meta="
+"\"<em>value</em>\"] to build up your profile page."
+msgstr ""
+
+#: wps_setup_admin.php:2375
+msgid "Label"
+msgstr ""
+
+#: wps_setup_admin.php:2379
+msgid "Meta value"
+msgstr ""
+
+#: wps_setup_admin.php:2382
+msgid "Description"
+msgstr ""
+
+#: wps_setup_admin.php:2383
+msgid "Last active"
+msgstr ""
+
+#: wps_setup_admin.php:2384
+msgid "Display name"
+msgstr ""
+
+#: wps_setup_admin.php:2385
+msgid "First name"
+msgstr ""
+
+#: wps_setup_admin.php:2386
+msgid "Last name"
+msgstr ""
+
+#: wps_setup_admin.php:2387
+msgid "Username"
+msgstr ""
+
+#: wps_setup_admin.php:2388
+msgid "User email"
+msgstr ""
+
+#: wps_setup_admin.php:2389
+msgid "User nice name"
+msgstr ""
+
+#: wps_setup_admin.php:2390
+msgid "User registration date"
+msgstr ""
+
+#: wps_setup_admin.php:2391
+msgid "User URL"
+msgstr ""
+
+#: wps_setup_admin.php:2392
+msgid "User status"
+msgstr ""
+
+#: wps_setup_admin.php:2395
+msgid "Map"
+msgstr ""
+
+#: wps_setup_admin.php:2398
+msgid "If Map selected above..."
+msgstr ""
+
+#: wps_setup_admin.php:2399
+msgid "Size"
+msgstr ""
+
+#: wps_setup_admin.php:2403
+msgid "Map style"
+msgstr ""
+
+#: wps_setup_admin.php:2410
+msgid "Zoom level"
+msgstr ""
+
+#: wps_setup_admin.php:2430
+msgid "If User email selected above..."
+msgstr ""
+
+#: wps_setup_admin.php:2431
+msgid "Email as hyperlink"
+msgstr ""
+
+#: wps_setup_admin.php:2444
+msgid ""
+"Displays a button to link to a URL, passing the user's ID as a parameter."
+msgstr ""
+
+#: wps_setup_admin.php:2445
+msgid "Add [wps-usermeta-button] to a WordPress Page."
+msgstr ""
+
+#: wps_setup_admin.php:2449
+msgid "URL for button"
+msgstr ""
+
+#: wps_setup_admin.php:2468
+msgid ""
+"Displays profile fields for the user, which they can edit. This is their "
+"Edit Profile page."
+msgstr ""
+
+#: wps_setup_admin.php:2469
+msgid "Add [wps-usermeta-change] to a WordPress Page."
+msgstr ""
+
+#: wps_setup_admin.php:2470
+msgid "Use \"Edit Profile\" setup below to add Tabs to your edit profile page."
+msgstr ""
+
+#: wps_setup_admin.php:2474
+msgid "Label for update button"
+msgstr ""
+
+#: wps_setup_admin.php:2478
+msgid "Show Town/City"
+msgstr ""
+
+#: wps_setup_admin.php:2482
+msgid "Town/City label"
+msgstr ""
+
+#: wps_setup_admin.php:2486
+msgid "Town/City default value"
+msgstr ""
+
+#: wps_setup_admin.php:2490
+msgid "Town/City mandatory"
+msgstr ""
+
+#: wps_setup_admin.php:2494
+msgid "Show Country"
+msgstr ""
+
+#: wps_setup_admin.php:2498
+msgid "Country label"
+msgstr ""
+
+#: wps_setup_admin.php:2502
+msgid "Country default value"
+msgstr ""
+
+#: wps_setup_admin.php:2506
+msgid "Country mandatory"
+msgstr ""
+
+#: wps_setup_admin.php:2510
+msgid "Display name label"
+msgstr ""
+
+#: wps_setup_admin.php:2514
+msgid "Show First/family names"
+msgstr ""
+
+#: wps_setup_admin.php:2518
+msgid "First/family name label"
+msgstr ""
+
+#: wps_setup_admin.php:2522
+msgid "Password label"
+msgstr ""
+
+#: wps_setup_admin.php:2526
+msgid "Re-type your password label"
+msgstr ""
+
+#: wps_setup_admin.php:2530
+msgid "Password change, log in again message"
+msgstr ""
+
+#: wps_setup_admin.php:2534
+msgid "Email label"
+msgstr ""
+
+#: wps_setup_admin.php:2542
+msgid "Mandatory suffix"
+msgstr ""
+
+#: wps_setup_admin.php:2546
+msgid "Required fields alert"
+msgstr ""
+
+#: wps_setup_admin.php:2550
+msgid "Activity notifications prompt"
+msgstr ""
+
+#: wps_setup_admin.php:2565
+msgid "Displays a link to the Edit Profile page."
+msgstr ""
+
+#: wps_setup_admin.php:2566
+msgid ""
+"Add [wps-usermeta-change-link] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:2581
+msgid "Displays button for users to close their account."
+msgstr ""
+
+#: wps_setup_admin.php:2582
+msgid "Add [wps-close-account] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:2594
+msgid "Are you sure text"
+msgstr ""
+
+#: wps_setup_admin.php:2598
+msgid "Account has been closed text"
+msgstr ""
+
+#: wps_setup_admin.php:2602
+msgid "URL after account is closed"
+msgstr ""
+
+#: wps_setup_admin.php:2613
+msgid "Displays a link or button to join a site (multisite only)."
+msgstr ""
+
+#: wps_setup_admin.php:2614
+msgid "Add [wps-join-site] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:2622
+msgid "Label for link/button"
+msgstr ""
+
+#: wps_setup_admin.php:2630
+msgid "Text"
+msgstr ""
+
+#: wps_setup_admin.php:2640
+msgid "Checks for a valid user and displays an option message."
+msgstr ""
+
+#: wps_setup_admin.php:2641
+msgid "Add [wps-no-user-check] to a WordPress Page, Post or Text widget."
+msgstr ""
+
+#: wps_setup_admin.php:2645
+msgid "User not found message"
+msgstr ""
+
+#: wps_setup_admin.php:2723
+msgid "Style (not available via shortcode options)..."
+msgstr ""
+
+#: wps_setup_admin.php:2735
+msgid "Add styles=\"0\" to a shortcode to avoid using the following styles."
+msgstr ""
+
+#: wps_setup_admin.php:2736
+msgid ""
+"Switch styles off globally (this affects the entire output of the shortcode)"
+msgstr ""
+
+#: wps_setup_admin.php:2736
+msgid "performance increase and easier to manually apply CSS"
+msgstr ""
+
+#: wps_setup_admin.php:2738
+msgid ""
+"Switch styles on globally</a> (this affects the entire output of the "
+"shortcodes, not the same as <a href=\""
+msgstr ""
+
+#: wps_setup_admin.php:2743
+msgid "Top margin"
+msgstr ""
+
+#: wps_setup_admin.php:2747
+msgid "Right margin"
+msgstr ""
+
+#: wps_setup_admin.php:2751
+msgid "Bottom margin"
+msgstr ""
+
+#: wps_setup_admin.php:2755
+msgid "Left margin"
+msgstr ""
+
+#: wps_setup_admin.php:2759
+msgid "Top padding"
+msgstr ""
+
+#: wps_setup_admin.php:2763
+msgid "Right padding"
+msgstr ""
+
+#: wps_setup_admin.php:2767
+msgid "Bottom padding"
+msgstr ""
+
+#: wps_setup_admin.php:2771
+msgid "Left padding"
+msgstr ""
+
+#: wps_setup_admin.php:2775
+msgid "Clear previous float"
+msgstr ""
+
+#: wps_setup_admin.php:2779
+msgid "Background color"
+msgstr ""
+
+#: wps_setup_admin.php:2783
+msgid "Border size"
+msgstr ""
+
+#: wps_setup_admin.php:2787
+msgid "Border color"
+msgstr ""
+
+#: wps_setup_admin.php:2791
+msgid "Border radius"
+msgstr ""
+
+#: wps_setup_admin.php:2795
+msgid "Border style"
+msgstr ""
+
+#: wps_setup_admin.php:2798
+msgid "Solid"
+msgstr ""
+
+#: wps_setup_admin.php:2799
+msgid "Dotted"
+msgstr ""
+
+#: wps_setup_admin.php:2800
+msgid "Dashed"
+msgstr ""
+
+#: wps_setup_admin.php:2803
+msgid "Width"
+msgstr ""
+
+#: wps_setup_admin.php:2805
+msgid "include px or %"
+msgstr ""
+
+#: wps_setup_admin.php:2807
+msgid "Height"
+msgstr ""
+
+#: wps_setup_admin.php:2809
+msgid "include px"
+msgstr ""
+
+#: wps_setup_admin.php:2844
+#, php-format
+msgid "Options (not set via <a href=\"%s\">shortcode</a>)"
+msgstr ""
+
+#: wps_setup_admin.php:2853
+msgid "System Options"
+msgstr ""
+
+#: wps_setup_admin.php:2863
+msgid "Admin tips"
+msgstr ""
+
+#: wps_setup_admin.php:2867
+msgid "Switch on all admin tips."
+msgstr ""
+
+#: wps_setup_admin.php:2869
+msgid "Admin tips switch on"
+msgstr ""
+
+#: wps_setup_admin.php:2875
+msgid "Icon Colors"
+msgstr ""
+
+#: wps_setup_admin.php:2882 wps_setup_admin.php:2900
+msgid "Dark"
+msgstr ""
+
+#: wps_setup_admin.php:2885 wps_setup_admin.php:2903
+msgid "Light"
+msgstr ""
+
+#: wps_setup_admin.php:2888
+msgid "Icon color scheme to use."
+msgstr ""
+
+#: wps_setup_admin.php:2893
+msgid "Flag Colors"
+msgstr ""
+
+#: wps_setup_admin.php:2906
+msgid "Flag icon color scheme to use."
+msgstr ""
+
+#: wps_setup_admin.php:2911
+msgid "External links"
+msgstr ""
+
+#: wps_setup_admin.php:2914
+msgid ""
+"To force external links in new browser tab, enter a suffix to append to "
+"relevant links, eg. &quot;&amp;raquo;&quot; for &raquo;. Enter &quot;&amp;"
+"newtab;&quot; to force, but not show anything after."
+msgstr ""
+
+#: wps_setup_admin.php:2919
+msgid "API Security Code"
+msgstr ""
+
+#: wps_setup_admin.php:2922
+msgid "Code to pass when using API functions."
+msgstr ""
+
+#: wps_setup_admin.php:2927
+msgid "API Permitted Functions"
+msgstr ""
+
+#: wps_setup_admin.php:2930
+msgid "Comma seperated list of permitted API functions."
+msgstr ""
+
+#: wps_setup_admin.php:2936
+msgid "Feeds"
+msgstr ""
+
+#: wps_setup_admin.php:2939
+msgid ""
+"Include comments in feeds, such as the RSS feed (comments before 16.02.03 "
+"will be included by default)."
+msgstr ""
+
+#: wps_setup_admin.php:2940
+msgid ""
+"Tick to update old posts so they can be excluded from feeds. Applies to "
+"comments made prior to 16.02.03 (only needs to be run once, may take some "
+"time)"
+msgstr ""
+
+#: wps_setup_admin.php:3086
+msgid "Features"
+msgstr ""
+
+#: wps_setup_admin.php:3097
+msgid "Activate Features"
+msgstr ""
+
+#: wps_setup_admin.php:3098
+msgid "Activate all"
+msgstr ""
+
+#: wps_setup_admin.php:3099
+msgid "Dectivate all"
+msgstr ""
+
+#: wps_setup_admin.php:3101
+#, php-format
+msgid ""
+"This is a list of what extra features are provided by the WP Symposium Pro "
+"Extensions plugin, <a href=\"%s\" target=\"_new\">find out more</a>..."
+msgstr ""
+
+#: wps_setup_admin.php:3102
+msgid ""
+"When the Extensions plugin is installed and activated, you can select which "
+"additional features you want to enable."
+msgstr ""
+
+#: wps_setup_admin.php:3108
+#, php-format
+msgid ""
+"There are many <a href=\"%s\">video tutorials</a> available, and a complete "
+"Codex covering everything, <a target=\"_blank\" href=\"%s\">The Complete "
+"Guide to WP Symposium Pro</a>."
+msgstr ""
+
+#: wps_setup_admin.php:3112
+msgid "Core Plugin"
+msgstr ""
+
+#: wps_setup_admin.php:3122
+msgid "System"
+msgstr ""
+
+#: wps_setup_admin.php:3123
+msgid "Customize Email alerts"
+msgstr ""
+
+#: wps_setup_admin.php:3125
+msgid "Customize Email alerts requires Alerts in core features"
+msgstr ""
+
+#: wps_setup_admin.php:3127
+msgid "Login/Redirect, add restrict access to WordPress dashboard"
+msgstr ""
+
+#: wps_setup_admin.php:3128
+msgid "System Messages"
+msgstr ""
+
+#: wps_setup_admin.php:3132
+msgid "Allow users to choose activity recipient(s)"
+msgstr ""
+
+#: wps_setup_admin.php:3133
+msgid "Let users create activity share lists (requires above to be activated)"
+msgstr ""
+
+#: wps_setup_admin.php:3134
+msgid "Add images to activity posts"
+msgstr ""
+
+#: wps_setup_admin.php:3135
+msgid "Automatically show Soundcloud on activity"
+msgstr ""
+
+#: wps_setup_admin.php:3136 wps_setup_admin.php:3172 wps_setup_admin.php:3193
+msgid "Automatically show YouTube videos when URL included"
+msgstr ""
+
+#: wps_setup_admin.php:3137
+msgid "Automatically show website link previews"
+msgstr ""
+
+#: wps_setup_admin.php:3138
+msgid "Allow users to like/dislike activity posts and replies"
+msgstr ""
+
+#: wps_setup_admin.php:3139
+msgid "Let members keep track of favorite activity posts"
+msgstr ""
+
+#: wps_setup_admin.php:3140
+msgid "Allow sharing of activity posts to Facebook"
+msgstr ""
+
+#: wps_setup_admin.php:3143
+msgid "Requires Activity in core features"
+msgstr ""
+
+#: wps_setup_admin.php:3146
+msgid "Members"
+msgstr ""
+
+#: wps_setup_admin.php:3148
+msgid "Add custom profile extensions"
+msgstr ""
+
+#: wps_setup_admin.php:3149
+msgid "Allow members to personalise profile security"
+msgstr ""
+
+#: wps_setup_admin.php:3150
+msgid "Display a directory of members"
+msgstr ""
+
+#: wps_setup_admin.php:3151
+msgid "Set default friends when a user joins"
+msgstr ""
+
+#: wps_setup_admin.php:3152
+msgid "Reward users with points for actions taken"
+msgstr ""
+
+#: wps_setup_admin.php:3153
+msgid "Allow users to add image galleries"
+msgstr ""
+
+#: wps_setup_admin.php:3154
+msgid ""
+"Convert user @tags (user logins) in activity/forums. User selector pop-up "
+"not compatible with forum WYSIWYG toolbar."
+msgstr ""
+
+#: wps_setup_admin.php:3155
+msgid "Reviews of users."
+msgstr ""
+
+#: wps_setup_admin.php:3158 wps_setup_admin.php:3186 wps_setup_admin.php:3198
+msgid "Requires Profile in core features"
+msgstr ""
+
+#: wps_setup_admin.php:3163
+msgid "Allow image and document attachments"
+msgstr ""
+
+#: wps_setup_admin.php:3164
+msgid "Set custom fields for new forum posts"
+msgstr ""
+
+#: wps_setup_admin.php:3165
+msgid "Set custom fields for forum replies"
+msgstr ""
+
+#: wps_setup_admin.php:3166
+msgid "Add a forum search"
+msgstr ""
+
+#: wps_setup_admin.php:3167
+msgid "Fine tune access and permissions for forums"
+msgstr ""
+
+#: wps_setup_admin.php:3168
+msgid "Let members add a personalised forum signature (via Edit Profile)"
+msgstr ""
+
+#: wps_setup_admin.php:3169
+msgid "Email subscriptions for forum posts and replies"
+msgstr ""
+
+#: wps_setup_admin.php:3170
+msgid "Send forum posts and replies to profile activity"
+msgstr ""
+
+#: wps_setup_admin.php:3171
+msgid "Add a WYSIWYG toolbar to the forum editor"
+msgstr ""
+
+#: wps_setup_admin.php:3173
+msgid "Allow users to like/dislike forum replies"
+msgstr ""
+
+#: wps_setup_admin.php:3174
+msgid "Allow users to mark a forum reply as an answer"
+msgstr ""
+
+#: wps_setup_admin.php:3177
+msgid "Requires Forums in core features"
+msgstr ""
+
+#: wps_setup_admin.php:3182
+msgid "Allow members to create groups for group activity"
+msgstr ""
+
+#: wps_setup_admin.php:3183
+msgid "Set default group membership for new users"
+msgstr ""
+
+#: wps_setup_admin.php:3191
+msgid "Private messages between one or more recipients"
+msgstr ""
+
+#: wps_setup_admin.php:3192
+msgid "Allow mail attachments"
+msgstr ""
+
+#: wps_setup_admin.php:3194
+msgid "Setup email alerts for new mail and replies"
+msgstr ""
+
+#: wps_setup_admin.php:3195
+msgid ""
+"Show unread mail count in menu (requires change to menu item, click on help "
+"icon!)"
+msgstr ""
+
+#: wps_setup_admin.php:3201
+msgid "Miscellaneous"
+msgstr ""
+
+#: wps_setup_admin.php:3202
+#, php-format
+msgid ""
+"A site-wide chat area (\"Lounge\") for all members (unsupported feature), we "
+"recommend <a href=\"%s\" target=\"_new\">Simple Ajax Chat</a>"
+msgstr ""
+
+#: wps_setup_admin.php:3203
+msgid "Display calendars on your site"
+msgstr ""
+
+#: wps_setup_admin.php:3204
+msgid "Show blog posts, activity, mail, forum activity - amazingly powerful!"
+msgstr ""
+
+#: wps_setup_admin.php:3205
+msgid "WP Symposium forum migration tool"
+msgstr ""
+
+#: wps_setup_admin.php:3206
+msgid "BBpress forum migration tool"
+msgstr ""
+
+#: wps_setup_admin.php:3226 wps_setup_admin.php:3245
+msgid "video"
+msgstr ""
+
+#: wps_setup_admin.php:3254
+msgid ""
+"Click here for help, information and examples with this shortcode (opens new "
+"window)..."
+msgstr ""
+
+#: wps_setup_admin.php:3280
+msgid "WP Symposium Pro Styles"
+msgstr ""
+
+#: wps_setup_admin.php:3294
+#, php-format
+msgid "WP Symposium Pro styles all reset! <a href=\"%s\">Continue...</a>"
+msgstr ""
+
+#: wps_setup_admin.php:3304
+msgid ""
+"This section provides a quick and easy way to style all WP Symposium Pro "
+"screen elements, saving you from using CSS. You can <a onclick=\"return "
+"confirm('"
+msgstr ""
+
+#: wps_setup_admin.php:3305
+#, php-format
+msgid ""
+"If you hover over an element, the CSS class used is shown, and you can then "
+"use <a href=\"%s\">Custom CSS</a> to add more advanced attributes."
+msgstr ""
+
+#: wps_setup_admin.php:3310
+msgid ""
+"Using styles this way adds a small load to your pages, so you need to enable "
+"it first."
+msgstr ""
+
+#: wps_setup_admin.php:3311
+msgid "Enable Styles"
+msgstr ""
+
+#: wps_setup_admin.php:3327
+msgid "Interface"
+msgstr ""
+
+#: wps_setup_admin.php:3343
+msgid "Save Styles"
+msgstr ""
+
+#: wps_setup_admin.php:3346
+msgid ""
+"If not being used, you should disable this feature (you can re-enable again)."
+msgstr ""
+
+#: wps_setup_admin.php:3348
+msgid "Disable Styles"
+msgstr ""
+
+#: wps_setup_admin.php:3356
+msgid "Elements"
+msgstr ""
+
+#: wps_setup_admin.php:3379
+msgid "Buttons"
+msgstr ""
+
+#: wps_setup_admin.php:3380
+msgid "Buttons (mouse over)"
+msgstr ""
+
+#: wps_setup_admin.php:3381
+msgid "Buttons (click)"
+msgstr ""
+
+#: wps_setup_admin.php:3382
+msgid "Links"
+msgstr ""
+
+#: wps_setup_admin.php:3383
+msgid "Links (mouse over)"
+msgstr ""
+
+#: wps_setup_admin.php:3384
+msgid "Links (click)"
+msgstr ""
+
+#: wps_setup_admin.php:3385
+msgid "Heading 1"
+msgstr ""
+
+#: wps_setup_admin.php:3386
+msgid "Heading 2"
+msgstr ""
+
+#: wps_setup_admin.php:3387
+msgid "Heading 3"
+msgstr ""
+
+#: wps_setup_admin.php:3406
+msgid "Topic Header"
+msgstr ""
+
+#: wps_setup_admin.php:3407
+msgid "Replies Header"
+msgstr ""
+
+#: wps_setup_admin.php:3408
+msgid "Last Poster Header"
+msgstr ""
+
+#: wps_setup_admin.php:3409
+msgid "Freshness Header"
+msgstr ""
+
+#: wps_setup_admin.php:3422
+msgid "Forum Title"
+msgstr ""
+
+#: wps_setup_admin.php:3423
+msgid "Forum Title (mouse over)"
+msgstr ""
+
+#: wps_setup_admin.php:3424
+msgid "Forum Title (click)"
+msgstr ""
+
+#: wps_setup_admin.php:3424
+#, php-format
+msgid ""
+"If Forum Title is styled, it would be best to <a href=\"%s\">turn off \"Top "
+"level as links\"</a> via the [wps-forums] shortcode."
+msgstr ""
+
+#: wps_setup_admin.php:3450
+msgid "Element"
+msgstr ""
+
+#: wps_setup_admin.php:3451
+msgid "Fore Color"
+msgstr ""
+
+#: wps_setup_admin.php:3452
+msgid "Back Color"
+msgstr ""
+
+#: wps_setup_admin.php:3453
+msgid "Bold"
+msgstr ""
+
+#: wps_setup_admin.php:3454
+msgid "Italic"
+msgstr ""
+
+#: wps_setup_admin.php:3455
+msgid "Font size"
+msgstr ""
+
+#: wps_setup_admin.php:3491
+msgid "Inherit"
+msgstr ""

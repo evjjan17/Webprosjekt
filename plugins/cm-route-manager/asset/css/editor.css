@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+
+.cmmrm-field {margin: 0 0 2em 0;}
+.cmmrm-field > label {display: block; color: black;}
+.cmmrm-route-editor .cmmrm-field-desc {color: #666666;}
+.cmmrm-route-editor .cmmrm-field input[type=text] {width: 100%;}
+.cmmrm-route-editor .cmmrm-field-categories ul, .cmmrm-route-editor .cmmrm-field-categories li {list-style: none; margin: 0 !important; padding: 0 !important;}
+.cmmrm-route-editor .cmmrm-field-categories > ul {max-height: 300px; overflow: auto;}
+.cmmrm-route-editor .cmmrm-field-categories ul ul {margin-left: 1.5em !important;}
+.cmmrm-route-editor .cmmrm-field-description textarea {width: 100%; height: 10em;}
+
+.cmmrm-images-list, .cmmrm-images-list li {margin: 0 !important; padding: 0 !important; list-style: none;}
+.cmmrm-images-list li {display: inline-block; position: relative; margin-right: 1em !important;}
+.cmmrm-images-list img {max-width: 80px;}
+.cmmrm-image-delete {position: absolute; top: 0; right: 0; cursor: pointer; background: white; color: black; display: block; width: 1em; text-align: center; line-height: 1em;}
+
+#cmmrm-editor-map {margin-top: 2em;}
+#cmmrm-editor-map h4 {}
+#cmmrm-editor-map-canvas {width: 100%; height: 600px; margin: 0 0 2em 0;}
+#cmmrm-editor-map .cmmrm-toolbar {clear: both;}
+
+.cmmrm-route-editor .cmmrm-elevation-graph {display: block !important;}
+
+.cmmrm-locations-list {list-style: none !important; margin: 0 !important; padding: 0 !important;}
+.cmmrm-locations-list textarea {width: 100%; height: 100px;}
+.cmmrm-locations-list > li {list-style: none !important; border-left: #f9f9f9 15px solid; padding: 0 0 0 15px; margin: 15px 0 0 0;}
+
+.cmmrm-route-editor .cmmrm-route-params {margin: 2em 0 !important;}
+.cmmrm-route-editor .cmmrm-route-params > li {display: inline-block !important;}
+
+.cmmrm-locations-editor-mode .current {background: #f0f0f0;}
+
+.cmmrm-editor-instructions-btn {}
+.cmmrm-editor-instructions {display: none; clear: both; padding-top: 1em;}
+.cmmrm-editor-instructions iframe {}
+.cmmrm-route-editor input[type=submit] {margin: 2em 0; font-size: 18px; background: #339900 !important; color: white !important; padding: 0.6em 2em; cursor: pointer;}
+.cmmrm-editor-instructions-btn {font: bold 14px Arial; background: #339900 !important; color: white !important; padding: 0.6em 2em 0.6em 1.3em; cursor: pointer;}
+.cmmrm-editor-instructions-btn .dashicons {vertical-align: middle; margin-right: 5px;}
+
+.cmmrm-images-add-btn {background: #009944 !important; color: white !important; padding: 0.5em 2em; display: inline-block; font-weight: bold; margin: 1em 0;}
+.cmmrm-import-kml-wrapper {display: none;}
+
+.cmmrm-route-params li.cmmrm-editable {cursor: pointer;}
+.cmmrm-route-editor .cmmrm-route-params li.cmmrm-editable span:after {
+	content: "\f464";
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 20px 'dashicons';
+	vertical-align: top;
+	padding-left: 5px;
+}
+
+#cmmrm-location-icons-overlay {position: absolute; max-width: 400px; max-height: 300px; overflow: auto; padding: 1em; background: white; display: none;
+	border: solid 1px #666666; z-index: 9999999;}
+#cmmrm-location-icons-overlay ul, #cmmrm-location-icons-overlay li {list-style: none; padding: 0; margin: 0; cursor: pointer; display: inline-block;}
+.cmmrm-location-icon img {vertical-align: top;}
+
+.cmmrm-custom-field textarea {width: 100%; height: 4em;}
